@@ -1,0 +1,75 @@
+{
+  "root": true,
+  "parser": "@typescript-eslint/parser",
+  "plugins": [
+    "@typescript-eslint",
+    "react"
+  ],
+  "parserOptions": {
+    "ecmaFeatures": {
+      "jsx": true
+    }
+  },
+  "extends": [
+    "eslint:recommended",
+    "plugin:@typescript-eslint/recommended",
+    "plugin:react/recommended",
+    "plugin:react/jsx-runtime",
+    "plugin:react-hooks/recommended",
+    "next/core-web-vitals"
+  ],
+  "rules": {
+    "react/button-has-type": [
+      "warn"
+    ],
+    "react/jsx-boolean-value": [
+      "warn",
+      "always"
+    ],
+    "react/jsx-filename-extension": [
+      "error",
+      {
+        "extensions": [
+          ".tsx",
+          ".ts"
+        ]
+      }
+    ],
+    "react/jsx-fragments": [
+      "error",
+      "element"
+    ],
+    "react/jsx-pascal-case": [
+      "error"
+    ],
+    "no-duplicate-imports": "error",
+    "eqeqeq": "error",
+    "no-undef-init": "warn",
+    "semi": "off",
+    "@typescript-eslint/semi": [
+      "warn"
+    ],
+    "quotes": "off",
+    "@typescript-eslint/quotes": [
+      "warn",
+      "single"
+    ],
+    "@typescript-eslint/default-param-last": [
+      "warn"
+    ],
+    "@typescript-eslint/member-delimiter-style": [
+      "error",
+      {
+        "multiline": {
+          "delimiter": "semi",
+          "requireLast": true
+        },
+        "singleline": {
+          "delimiter": "semi",
+          "requireLast": false
+        },
+        "multilineDetection": "brackets"
+      }
+    ]
+  }
+}
