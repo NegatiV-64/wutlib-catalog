@@ -24,7 +24,7 @@ export const LastBooksSection: FC<LatestBooksProps> = ({ books }) => {
                         );
                     })}
                 </BookCardRow>
-                <Button href='/books/page/1' className='text-2xl px-6 mx-auto block mt-8'>
+                <Button href='/books/page/1' className='text-2xl px-6 mx-auto block mt-8 th:text-xl'>
                     View More
                 </Button>
             </Container>

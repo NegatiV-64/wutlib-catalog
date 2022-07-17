@@ -91,21 +91,27 @@ export const SearchBookSection = (): JSX.Element => {
     }
 
     return (
-
         <section className="pt-4 pb-12 bg-slate-100 h-full flex-grow">
             <Container>
                 <h1 className="text-4xl text-center font-medium mb-4 text-slate-900">Find a book:</h1>
-                <form onSubmit={onSearchHandler} className='flex justify-center gap-3 mb-8'>
+                <form onSubmit={onSearchHandler} className='flex justify-center gap-3 mb-8 th:flex-col sm:flex sm:justify-between md:flex md:justify-between'>
                     <input
                         placeholder='Type here to search'
                         required={true} minLength={3}
                         className="bg-white py-2 text-xl pl-4 pr-2 w-1/4 rounded-xl outline-none
                     border-spacing-px border-2 border-transparent duration-200 shadow
                     focus:border-blue-500 focus:shadow-md
+                    th:w-4/5 th:mx-auto
+                    sm:w-9/12 
+                    md:w-9/12
                     "
                         value={searchBookInput} onChange={onInputChangeHandler} type={'search'}
                     />
-                    <button className='bg-blue-600 rounded-xl text-lg px-5 shadow-md text-white py-3 duration-200 hover:bg-blue-700 hover:shadow-lg' type={'submit'}>Search</button>
+                    <button className='
+                    bg-blue-600 rounded-xl text-lg px-5 shadow-md text-white py-3 
+                    duration-200 hover:bg-blue-700 hover:shadow-lg
+                    th:w-fit th:mx-auto
+                    ' type={'submit'}>Search</button>
                 </form>
                 {renderedContent}
             </Container>

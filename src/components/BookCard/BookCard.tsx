@@ -8,7 +8,7 @@ export const BookCard: FC<BookCardProps> = ({ className, authors, year, bookId, 
   const bookAuthors = authors.join(', ');
 
   return (
-    <article className={cn('flex flex-col pt-3 pb-5 px-6', 'bg-white rounded-lg overflow-hidden shadow-xl', className)}>
+    <article className={cn('flex flex-col pt-3 pb-5 px-6 th:w-10/12 th:mx-auto', 'bg-white rounded-lg overflow-hidden shadow-xl', className)}>
       <picture className='flex justify-center items-center'>
         <Image height={220} width={150} objectFit="contain" src={cover.replace('./', '/')} alt={title} />
       </picture>
@@ -16,7 +16,7 @@ export const BookCard: FC<BookCardProps> = ({ className, authors, year, bookId, 
       <p className='text-base text-slate-900'><span className='font-medium'>Authors:</span> {bookAuthors}</p>
       <p className='text-base text-slate-900'><span className='font-medium'>Edition</span>: {edition}</p>
       <p className='text-base text-slate-900 mb-2'><span className='font-medium'>Year:</span> {year}</p>
-      <Button className='mt-auto' href={`/books/book/${bookId}`}>
+      <Button className='mt-auto th:block th:mx-auto' href={`/books/book/${bookId}`}>
         Read More
       </Button>
     </article>
@@ -25,7 +25,7 @@ export const BookCard: FC<BookCardProps> = ({ className, authors, year, bookId, 
 
 export const BookCardRow: FC<{ children: ReactNode }> = ({ children }) => {
   return (
-    <div className='grid grid-cols-books gap-12'>
+    <div className='grid grid-cols-books th:grid-cols-1 sm:grid-cols-2 md:grid-cols-2 gap-12'>
       {children}
     </div>
   );

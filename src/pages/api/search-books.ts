@@ -10,7 +10,7 @@ export default function AllBooksHandler(req: NextApiRequest, res: NextApiRespons
         }
 
         const books = [...allBooksData].reverse();
-        const searchedBooks = books.filter((book) => book.book_title.toLocaleLowerCase().includes(searchedValue.toLocaleLowerCase()));
+        const searchedBooks = books.filter((book) => book.book_title.toLocaleLowerCase().trim().includes(searchedValue.toLocaleLowerCase().trim()));
 
         res.status(200).json({ amount: searchedBooks.length, books: searchedBooks });
     } else {
