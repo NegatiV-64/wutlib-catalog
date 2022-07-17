@@ -127,7 +127,7 @@
     {
         "book_id": 10,
         "book_title": "Business Analytics",
-        "book_cover": "./files/Business analytics.jpg",
+        "book_cover": "./files/Business analytics.png",
         "book_year": 2019,
         "book_edition": 3,
         "book_authors": [

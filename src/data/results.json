@@ -1,0 +1,3792 @@
+{
+    "name": "WUTLIBUZ textbooks",
+    "type": "public_channel",
+    "id": 1548337870,
+    "messages": [
+        {
+            "id": 1,
+            "type": "service",
+            "date": "2022-07-06T09:14:38",
+            "date_unixtime": "1657080878",
+            "actor": "WUTLIBUZ textbooks",
+            "actor_id": "channel1548337870",
+            "action": "create_channel",
+            "title": "WUTLIBUZ textbooks",
+            "text": ""
+        },
+        {
+            "id": 2,
+            "type": "message",
+            "date": "2022-07-06T09:18:14",
+            "date_unixtime": "1657081094",
+            "edited": "2022-07-06T09:29:13",
+            "edited_unixtime": "1657081753",
+            "from": "WUTLIBUZ textbooks",
+            "from_id": "channel1548337870",
+            "file": "./files/psychology in modules.png",
+            "thumbnail": "files/psychology in modules.png_thumb.jpg",
+            "mime_type": "image/png",
+            "width": 678,
+            "height": 772,
+            "text": [
+                {
+                    "type": "hashtag",
+                    "text": "#Psychology"
+                },
+                " in modules                                       ",
+                {
+                    "type": "hashtag",
+                    "text": "#BF121"
+                },
+                ".M95 2018                                           ",
+                {
+                    "type": "hashtag",
+                    "text": "#David"
+                },
+                " G. Myers, C. Nathan DeWall     ",
+                {
+                    "type": "hashtag",
+                    "text": "#Edition"
+                },
+                " 12                                                      ",
+                {
+                    "type": "hashtag",
+                    "text": "#ISBN"
+                },
+                " 9781319113087                                           ",
+                {
+                    "type": "hashtag",
+                    "text": "#Page"
+                },
+                ": 861"
+            ]
+        },
+        {
+            "id": 3,
+            "type": "message",
+            "date": "2022-07-06T09:28:58",
+            "date_unixtime": "1657081738",
+            "edited": "2022-07-06T09:31:10",
+            "edited_unixtime": "1657081870",
+            "from": "WUTLIBUZ textbooks",
+            "from_id": "channel1548337870",
+            "file": "./files/Ethics.jpg",
+            "thumbnail": "files/Ethics.jpg_thumb.jpg",
+            "mime_type": "image/jpeg",
+            "width": 506,
+            "height": 647,
+            "text": [
+                {
+                    "type": "hashtag",
+                    "text": "#BJ1012"
+                },
+                " .M328 2018                                              ",
+                {
+                    "type": "hashtag",
+                    "text": "#Ethics"
+                },
+                " Theory and Contemporary issues                                                                     ",
+                {
+                    "type": "hashtag",
+                    "text": "#Barbara"
+                },
+                " MacKinnon, Andrew Fiala                                              ",
+                {
+                    "type": "hashtag",
+                    "text": "#Edition"
+                },
+                " 9                                                               ",
+                {
+                    "type": "hashtag",
+                    "text": "#ISBN"
+                },
+                " 9781305958678                                             ",
+                {
+                    "type": "hashtag",
+                    "text": "#Page"
+                },
+                ":622"
+            ]
+        },
+        {
+            "id": 4,
+            "type": "message",
+            "date": "2022-07-06T09:33:14",
+            "date_unixtime": "1657081994",
+            "edited": "2022-07-06T09:33:37",
+            "edited_unixtime": "1657082017",
+            "from": "WUTLIBUZ textbooks",
+            "from_id": "channel1548337870",
+            "file": "./files/Economics.jfif",
+            "thumbnail": "files/Economics.jfif_thumb.jpg",
+            "mime_type": "image/jpeg",
+            "width": 476,
+            "height": 640,
+            "text": [
+                {
+                    "type": "hashtag",
+                    "text": "#HB171"
+                },
+                ".5 .M26 2017                                      ",
+                {
+                    "type": "hashtag",
+                    "text": "#Economics"
+                },
+                "                                                        ",
+                {
+                    "type": "hashtag",
+                    "text": "#Mankiw"
+                },
+                " and Taylor                                              ",
+                {
+                    "type": "hashtag",
+                    "text": "#Edition"
+                },
+                " 4                                                                    ",
+                {
+                    "type": "hashtag",
+                    "text": "#ISBN"
+                },
+                " 9781473725331                                        ",
+                {
+                    "type": "hashtag",
+                    "text": "#Page"
+                },
+                ":805"
+            ]
+        },
+        {
+            "id": 5,
+            "type": "message",
+            "date": "2022-07-06T09:35:28",
+            "date_unixtime": "1657082128",
+            "from": "WUTLIBUZ textbooks",
+            "from_id": "channel1548337870",
+            "file": "./files/Essentials of economics.jpeg",
+            "thumbnail": "files/Essentials of economics.jpeg_thumb.jpg",
+            "mime_type": "image/jpeg",
+            "width": 612,
+            "height": 612,
+            "text": [
+                {
+                    "type": "hashtag",
+                    "text": "#HB171"
+                },
+                ".5 .S293 2020                                  ",
+                {
+                    "type": "hashtag",
+                    "text": "#Essentials"
+                },
+                " of Economics                               ",
+                {
+                    "type": "hashtag",
+                    "text": "#Bradley"
+                },
+                " R. Schiller &n Karen Gebhardt ",
+                {
+                    "type": "hashtag",
+                    "text": "#Edition"
+                },
+                " 11                                                                 ",
+                {
+                    "type": "hashtag",
+                    "text": "#ISBN"
+                },
+                " 9781260566079                                      ",
+                {
+                    "type": "hashtag",
+                    "text": "#Page"
+                },
+                ": 387"
+            ]
+        },
+        {
+            "id": 6,
+            "type": "message",
+            "date": "2022-07-06T09:37:23",
+            "date_unixtime": "1657082243",
+            "from": "WUTLIBUZ textbooks",
+            "from_id": "channel1548337870",
+            "file": "./files/microeconomics.jpg",
+            "thumbnail": "files/microeconomics.jpg_thumb.jpg",
+            "mime_type": "image/jpeg",
+            "width": 399,
+            "height": 500,
+            "text": [
+                {
+                    "type": "hashtag",
+                    "text": "#HB172"
+                },
+                " .B864 2020                         ",
+                {
+                    "type": "hashtag",
+                    "text": "#Microeconomics"
+                },
+                " Theory and Applications                                                   ",
+                {
+                    "type": "hashtag",
+                    "text": "#Edgar"
+                },
+                " K. Browning, Mark A. Zupan   ",
+                {
+                    "type": "hashtag",
+                    "text": "#Edition"
+                },
+                " 13                                                      ",
+                {
+                    "type": "hashtag",
+                    "text": "#ISBN"
+                },
+                " 9781119668749                                   ",
+                {
+                    "type": "hashtag",
+                    "text": "#Page"
+                },
+                ": 560"
+            ]
+        },
+        {
+            "id": 7,
+            "type": "message",
+            "date": "2022-07-06T09:39:28",
+            "date_unixtime": "1657082368",
+            "edited": "2022-07-06T09:39:48",
+            "edited_unixtime": "1657082388",
+            "from": "WUTLIBUZ textbooks",
+            "from_id": "channel1548337870",
+            "file": "./files/intermediate microeconomics.jpg",
+            "thumbnail": "files/intermediate microeconomics.jpg_thumb.jpg",
+            "mime_type": "image/jpeg",
+            "width": 363,
+            "height": 500,
+            "text": [
+                {
+                    "type": "hashtag",
+                    "text": "#HB172"
+                },
+                " .V34 2020                                                        ",
+                {
+                    "type": "hashtag",
+                    "text": "#Intermediate"
+                },
+                " Microeconomics                                                                          ",
+                {
+                    "type": "hashtag",
+                    "text": "#Hal"
+                },
+                " R. Varian                                                                                                  ",
+                {
+                    "type": "hashtag",
+                    "text": "#Edition"
+                },
+                " 9                                                                                                  ",
+                {
+                    "type": "hashtag",
+                    "text": "#ISBN"
+                },
+                " 9780393689891                                                                                 ",
+                {
+                    "type": "hashtag",
+                    "text": "#Page"
+                },
+                ": 801"
+            ]
+        },
+        {
+            "id": 8,
+            "type": "message",
+            "date": "2022-07-06T09:42:29",
+            "date_unixtime": "1657082549",
+            "from": "WUTLIBUZ textbooks",
+            "from_id": "channel1548337870",
+            "file": "./files/business driven technology.jpg",
+            "thumbnail": "files/business driven technology.jpg_thumb.jpg",
+            "mime_type": "image/jpeg",
+            "width": 390,
+            "height": 499,
+            "text": [
+                {
+                    "type": "hashtag",
+                    "text": "#HD30"
+                },
+                ".2 .H32 2020                                          ",
+                {
+                    "type": "hashtag",
+                    "text": "#Business"
+                },
+                " Driven Technology                                            ",
+                {
+                    "type": "hashtag",
+                    "text": "#Paige"
+                },
+                " Baltzan                                                             ",
+                {
+                    "type": "hashtag",
+                    "text": "#Edition"
+                },
+                " 8                                                                       ",
+                {
+                    "type": "hashtag",
+                    "text": "#ISBN"
+                },
+                " 9781260548105                                            ",
+                {
+                    "type": "hashtag",
+                    "text": "#Page"
+                },
+                ":575"
+            ]
+        },
+        {
+            "id": 9,
+            "type": "message",
+            "date": "2022-07-06T09:44:35",
+            "date_unixtime": "1657082675",
+            "edited": "2022-07-06T09:45:11",
+            "edited_unixtime": "1657082711",
+            "from": "WUTLIBUZ textbooks",
+            "from_id": "channel1548337870",
+            "file": "./files/Stastics for managers using microsoft excel.jpg",
+            "thumbnail": "files/Stastics for managers using microsoft excel.jpg_thumb.jpg",
+            "mime_type": "image/jpeg",
+            "width": 312,
+            "height": 400,
+            "text": [
+                {
+                    "type": "hashtag",
+                    "text": "#HD30"
+                },
+                ".215 .S73 2017                                                                                       ",
+                {
+                    "type": "hashtag",
+                    "text": "#Statistics"
+                },
+                " for Managers using Microsoft Excel                                                                                 ",
+                {
+                    "type": "hashtag",
+                    "text": "#David"
+                },
+                " M. Levine, David F. Stephan, Kathryn A Szabat                                                                ",
+                {
+                    "type": "hashtag",
+                    "text": "#Edition"
+                },
+                " 8                                                                                                                       ",
+                {
+                    "type": "hashtag",
+                    "text": "#ISBN"
+                },
+                " 9781292156347                                                                                     ",
+                {
+                    "type": "hashtag",
+                    "text": "#Page"
+                },
+                ":721"
+            ]
+        },
+        {
+            "id": 10,
+            "type": "message",
+            "date": "2022-07-06T09:47:56",
+            "date_unixtime": "1657082876",
+            "edited": "2022-07-06T09:48:19",
+            "edited_unixtime": "1657082899",
+            "from": "WUTLIBUZ textbooks",
+            "from_id": "channel1548337870",
+            "file": "./files/Managerial economics and business strategy.jpg",
+            "thumbnail": "files/Managerial economics and business strategy.jpg_thumb.jpg",
+            "mime_type": "image/jpeg",
+            "width": 390,
+            "height": 499,
+            "text": [
+                {
+                    "type": "hashtag",
+                    "text": "#HD30"
+                },
+                ".22 .B38 2009                                                                                                          ",
+                {
+                    "type": "hashtag",
+                    "text": "#Managerial"
+                },
+                " Economics and Business Strategy                                                                                                                            ",
+                {
+                    "type": "hashtag",
+                    "text": "#Micheal"
+                },
+                " R. Baye, Jeffrey T. Prince                                                              ",
+                {
+                    "type": "hashtag",
+                    "text": "#Edition"
+                },
+                " 9                                                                                                     ",
+                {
+                    "type": "hashtag",
+                    "text": "#ISBN"
+                },
+                " 9781259251382                                                                                                             ",
+                {
+                    "type": "hashtag",
+                    "text": "#Page"
+                },
+                ":548"
+            ]
+        },
+        {
+            "id": 11,
+            "type": "message",
+            "date": "2022-07-06T09:50:32",
+            "date_unixtime": "1657083032",
+            "edited": "2022-07-06T09:50:48",
+            "edited_unixtime": "1657083048",
+            "from": "WUTLIBUZ textbooks",
+            "from_id": "channel1548337870",
+            "file": "./files/Business analytics.jfif",
+            "thumbnail": "files/Business analytics.jfif_thumb.jpg",
+            "mime_type": "image/jpeg",
+            "width": 506,
+            "height": 648,
+            "text": [
+                {
+                    "type": "hashtag",
+                    "text": "#HD30"
+                },
+                ".23 .C35 2019                                                                                 ",
+                {
+                    "type": "hashtag",
+                    "text": "#Business"
+                },
+                " Analytics                                                                             ",
+                {
+                    "type": "hashtag",
+                    "text": "#Jeffrey"
+                },
+                " D. Camm, James J. Cochran, Micheal J. Fry, Jeffrey W. Ohlmann, David R. Anderson, Dennis J. Sweeney, Thomas A. Williams                                                                                           ",
+                {
+                    "type": "hashtag",
+                    "text": "#Edition"
+                },
+                " 3                                                                                    ",
+                {
+                    "type": "hashtag",
+                    "text": "#ISBN"
+                },
+                " 9781337406420                                                                    ",
+                {
+                    "type": "hashtag",
+                    "text": "#Page"
+                },
+                ":786"
+            ]
+        },
+        {
+            "id": 12,
+            "type": "message",
+            "date": "2022-07-06T09:56:13",
+            "date_unixtime": "1657083373",
+            "from": "WUTLIBUZ textbooks",
+            "from_id": "channel1548337870",
+            "file": "./files/Contemprorary management.jpg",
+            "thumbnail": "files/Contemprorary management.jpg_thumb.jpg",
+            "mime_type": "image/jpeg",
+            "width": 390,
+            "height": 499,
+            "text": [
+                {
+                    "type": "hashtag",
+                    "text": "#HD31"
+                },
+                " .J597 2019                                                                 ",
+                {
+                    "type": "hashtag",
+                    "text": "#Contemprorary"
+                },
+                " Management                                                                            ",
+                {
+                    "type": "hashtag",
+                    "text": "#Gareth"
+                },
+                " R. Jones, Jennifer M. Gearge                                               ",
+                {
+                    "type": "hashtag",
+                    "text": "#Edition"
+                },
+                " 11                                                                           ",
+                {
+                    "type": "hashtag",
+                    "text": "#ISBN"
+                },
+                " 9781260565737                                                                ",
+                {
+                    "type": "hashtag",
+                    "text": "#Page"
+                },
+                ":575"
+            ]
+        },
+        {
+            "id": 13,
+            "type": "message",
+            "date": "2022-07-06T09:58:01",
+            "date_unixtime": "1657083481",
+            "from": "WUTLIBUZ textbooks",
+            "from_id": "channel1548337870",
+            "file": "./files/Leadership Research findings.jpg",
+            "thumbnail": "files/Leadership Research findings.jpg_thumb.jpg",
+            "mime_type": "image/jpeg",
+            "width": 390,
+            "height": 499,
+            "text": [
+                {
+                    "type": "hashtag",
+                    "text": "#HD57"
+                },
+                ".7 .D83 2019                                                                                                       ",
+                {
+                    "type": "hashtag",
+                    "text": "#Leadership"
+                },
+                " Research Findings, Practice and skills                                                                                       ",
+                {
+                    "type": "hashtag",
+                    "text": "#Andrew"
+                },
+                " J. DuBrin                                                          ",
+                {
+                    "type": "hashtag",
+                    "text": "#Edition"
+                },
+                " 9                                                                                      ",
+                {
+                    "type": "hashtag",
+                    "text": "#ISBN"
+                },
+                " 9780357042496                                                                 ",
+                {
+                    "type": "hashtag",
+                    "text": "#Page"
+                },
+                ": 440"
+            ]
+        },
+        {
+            "id": 14,
+            "type": "message",
+            "date": "2022-07-06T09:59:46",
+            "date_unixtime": "1657083586",
+            "edited": "2022-07-06T10:00:14",
+            "edited_unixtime": "1657083614",
+            "from": "WUTLIBUZ textbooks",
+            "from_id": "channel1548337870",
+            "file": "./files/Leadership Personel development.jpg",
+            "thumbnail": "files/Leadership Personel development.jpg_thumb.jpg",
+            "mime_type": "image/jpeg",
+            "width": 391,
+            "height": 499,
+            "text": [
+                {
+                    "type": "hashtag",
+                    "text": "#HD57"
+                },
+                ".7 .R523 2018                                                                                                                                ",
+                {
+                    "type": "hashtag",
+                    "text": "#Leadership"
+                },
+                " Personal development and career success                                                                                                           ",
+                {
+                    "type": "hashtag",
+                    "text": "#Cliff"
+                },
+                " Ricketts and John C. Ricketts                                                                ",
+                {
+                    "type": "hashtag",
+                    "text": "#Edition"
+                },
+                " 4                                                                                                               ",
+                {
+                    "type": "hashtag",
+                    "text": "#ISBN"
+                },
+                " 9781305953819                                                                                              ",
+                {
+                    "type": "hashtag",
+                    "text": "#Page"
+                },
+                ":718"
+            ]
+        },
+        {
+            "id": 15,
+            "type": "message",
+            "date": "2022-07-06T10:02:10",
+            "date_unixtime": "1657083730",
+            "from": "WUTLIBUZ textbooks",
+            "from_id": "channel1548337870",
+            "file": "./files/Negotiation.jpg",
+            "thumbnail": "files/Negotiation.jpg_thumb.jpg",
+            "mime_type": "image/jpeg",
+            "width": 386,
+            "height": 500,
+            "text": [
+                {
+                    "type": "hashtag",
+                    "text": "#HD58"
+                },
+                ".6 .L49 2020                                                                   ",
+                {
+                    "type": "hashtag",
+                    "text": "#Negotiation"
+                },
+                "                                                                               ",
+                {
+                    "type": "hashtag",
+                    "text": "#Roy"
+                },
+                " J. Lewicki, Bruce Barry, David M. Saunders                                                                            ",
+                {
+                    "type": "hashtag",
+                    "text": "#Edition"
+                },
+                " 8                                                                                       ",
+                {
+                    "type": "hashtag",
+                    "text": "#ISBN"
+                },
+                " 9781260565591                                            ",
+                {
+                    "type": "hashtag",
+                    "text": "#Page"
+                },
+                ":685"
+            ]
+        },
+        {
+            "id": 16,
+            "type": "message",
+            "date": "2022-07-06T10:03:47",
+            "date_unixtime": "1657083827",
+            "from": "WUTLIBUZ textbooks",
+            "from_id": "channel1548337870",
+            "file": "./files/Organizational behavior.jpg",
+            "thumbnail": "files/Organizational behavior.jpg_thumb.jpg",
+            "mime_type": "image/jpeg",
+            "width": 390,
+            "height": 500,
+            "text": [
+                {
+                    "type": "hashtag",
+                    "text": "#HD58"
+                },
+                ".7 .R62 2019                                                                  ",
+                {
+                    "type": "hashtag",
+                    "text": "#Organizational"
+                },
+                " behavior                                                                                  ",
+                {
+                    "type": "hashtag",
+                    "text": "#Stephen"
+                },
+                " P. Robbins, Timothy A. Judge                             ",
+                {
+                    "type": "hashtag",
+                    "text": "#Edition"
+                },
+                " 18                                                                                  ",
+                {
+                    "type": "hashtag",
+                    "text": "#ISBN"
+                },
+                " 9781292259239                                                                          ",
+                {
+                    "type": "hashtag",
+                    "text": "#Page"
+                },
+                ":770"
+            ]
+        },
+        {
+            "id": 17,
+            "type": "message",
+            "date": "2022-07-06T10:05:21",
+            "date_unixtime": "1657083921",
+            "edited": "2022-07-06T10:05:27",
+            "edited_unixtime": "1657083927",
+            "from": "WUTLIBUZ textbooks",
+            "from_id": "channel1548337870",
+            "file": "./files/Change by design.jpg",
+            "thumbnail": "files/Change by design.jpg_thumb.jpg",
+            "mime_type": "image/jpeg",
+            "width": 1600,
+            "height": 2429,
+            "text": [
+                {
+                    "type": "hashtag",
+                    "text": "#HD58"
+                },
+                ".8 .B772 2019                                                             ",
+                {
+                    "type": "hashtag",
+                    "text": "#Change"
+                },
+                " by design                                                               ",
+                {
+                    "type": "hashtag",
+                    "text": "#Tim"
+                },
+                " Brown                                                                    ",
+                {
+                    "type": "hashtag",
+                    "text": "#ISBN"
+                },
+                " 9780062856623                                                     ",
+                {
+                    "type": "hashtag",
+                    "text": "#Page"
+                },
+                ":294"
+            ]
+        },
+        {
+            "id": 18,
+            "type": "message",
+            "date": "2022-07-06T10:07:25",
+            "date_unixtime": "1657084045",
+            "from": "WUTLIBUZ textbooks",
+            "from_id": "channel1548337870",
+            "file": "./files/New venture creation.jpg",
+            "thumbnail": "files/New venture creation.jpg_thumb.jpg",
+            "mime_type": "image/jpeg",
+            "width": 391,
+            "height": 500,
+            "text": [
+                {
+                    "type": "hashtag",
+                    "text": "#HD62"
+                },
+                ".5 .T55 2016                                                                  ",
+                {
+                    "type": "hashtag",
+                    "text": "#New"
+                },
+                " Venture Creation                                                                       ",
+                {
+                    "type": "hashtag",
+                    "text": "#Stephen"
+                },
+                " Spinelli Jr., Robert J. Adams Jr.                                            ",
+                {
+                    "type": "hashtag",
+                    "text": "#Edition"
+                },
+                " 10                                                                          ",
+                {
+                    "type": "hashtag",
+                    "text": "#ISBN"
+                },
+                " 9789814577465                                                                       ",
+                {
+                    "type": "hashtag",
+                    "text": "#Page"
+                },
+                ":484"
+            ]
+        },
+        {
+            "id": 19,
+            "type": "message",
+            "date": "2022-07-06T10:08:56",
+            "date_unixtime": "1657084136",
+            "from": "WUTLIBUZ textbooks",
+            "from_id": "channel1548337870",
+            "file": "./files/Teamwork and team building.jpg",
+            "thumbnail": "files/Teamwork and team building.jpg_thumb.jpg",
+            "mime_type": "image/jpeg",
+            "width": 391,
+            "height": 500,
+            "text": [
+                {
+                    "type": "hashtag",
+                    "text": "#HD66"
+                },
+                " .B879 2017                                                                            ",
+                {
+                    "type": "hashtag",
+                    "text": "#Teamwork"
+                },
+                " and Team building                                           ",
+                {
+                    "type": "hashtag",
+                    "text": "#Jeff"
+                },
+                " Butterfield                                                                 ",
+                {
+                    "type": "hashtag",
+                    "text": "#Edition"
+                },
+                " 2                                                                                    ",
+                {
+                    "type": "hashtag",
+                    "text": "#ISBN"
+                },
+                " 9781337119276                                                                   ",
+                {
+                    "type": "hashtag",
+                    "text": "#Page"
+                },
+                ":126"
+            ]
+        },
+        {
+            "id": 20,
+            "type": "message",
+            "date": "2022-07-06T10:10:47",
+            "date_unixtime": "1657084247",
+            "from": "WUTLIBUZ textbooks",
+            "from_id": "channel1548337870",
+            "file": "./files/Business essentials.jpg",
+            "thumbnail": "files/Business essentials.jpg_thumb.jpg",
+            "mime_type": "image/jpeg",
+            "width": 387,
+            "height": 500,
+            "text": [
+                {
+                    "type": "hashtag",
+                    "text": "#HD70"
+                },
+                ".U5 E2 2019                                                                           ",
+                {
+                    "type": "hashtag",
+                    "text": "#Business"
+                },
+                " Essentials                                                                         ",
+                {
+                    "type": "hashtag",
+                    "text": "#Ronald"
+                },
+                " J. Ebert, Ricky W. Griffin                                                        ",
+                {
+                    "type": "hashtag",
+                    "text": "#Edition"
+                },
+                " 12                                                                         ",
+                {
+                    "type": "hashtag",
+                    "text": "#ISBN"
+                },
+                " 9781292268996                                                              ",
+                {
+                    "type": "hashtag",
+                    "text": "#Page"
+                },
+                ": 701"
+            ]
+        },
+        {
+            "id": 24,
+            "type": "message",
+            "date": "2022-07-06T10:13:31",
+            "date_unixtime": "1657084411",
+            "from": "WUTLIBUZ textbooks",
+            "from_id": "channel1548337870",
+            "file": "./stickers/Introduction to international development.webp",
+            "thumbnail": "stickers/Introduction to international development.webp_thumb.jpg",
+            "media_type": "sticker",
+            "width": 460,
+            "height": 570,
+            "text": ""
+        },
+        {
+            "id": 25,
+            "type": "message",
+            "date": "2022-07-06T10:15:02",
+            "date_unixtime": "1657084502",
+            "from": "WUTLIBUZ textbooks",
+            "from_id": "channel1548337870",
+            "text": [
+                {
+                    "type": "hashtag",
+                    "text": "#HD82"
+                },
+                " .I58 2016                                                                                                        ",
+                {
+                    "type": "hashtag",
+                    "text": "#Introduction"
+                },
+                " To international Development                                                                                                ",
+                {
+                    "type": "hashtag",
+                    "text": "#Paul"
+                },
+                " A. Haslam, Jessica Schafer, Pierre Beaudet                                                                                     ",
+                {
+                    "type": "hashtag",
+                    "text": "#Edition"
+                },
+                " 3                                                                                                                                       ",
+                {
+                    "type": "hashtag",
+                    "text": "#ISBN"
+                },
+                " 9780199018901                                                                                             ",
+                {
+                    "type": "hashtag",
+                    "text": "#Page"
+                },
+                ": 606"
+            ]
+        },
+        {
+            "id": 26,
+            "type": "message",
+            "date": "2022-07-06T10:16:48",
+            "date_unixtime": "1657084608",
+            "edited": "2022-07-06T10:16:56",
+            "edited_unixtime": "1657084616",
+            "from": "WUTLIBUZ textbooks",
+            "from_id": "channel1548337870",
+            "file": "./files/Contemprorary labor economics.jpg",
+            "thumbnail": "files/Contemprorary labor economics.jpg_thumb.jpg",
+            "mime_type": "image/jpeg",
+            "width": 403,
+            "height": 500,
+            "text": [
+                {
+                    "type": "hashtag",
+                    "text": "#HD4901"
+                },
+                " .M15 2021                                                              ",
+                {
+                    "type": "hashtag",
+                    "text": "#Contemprorary"
+                },
+                " Labor Economics                                                       ",
+                {
+                    "type": "hashtag",
+                    "text": "#Campbell"
+                },
+                " R. McConnel, Stanley L. Brue, David A. Macpherson                                                                  ",
+                {
+                    "type": "hashtag",
+                    "text": "#Edition"
+                },
+                " 12                                                                               ",
+                {
+                    "type": "hashtag",
+                    "text": "#ISBN"
+                },
+                " 9781260570625                                                   ",
+                {
+                    "type": "hashtag",
+                    "text": "#Page"
+                },
+                ": 572"
+            ]
+        },
+        {
+            "id": 27,
+            "type": "message",
+            "date": "2022-07-06T10:18:35",
+            "date_unixtime": "1657084715",
+            "from": "WUTLIBUZ textbooks",
+            "from_id": "channel1548337870",
+            "file": "./files/Stuffed and starved.jpg",
+            "thumbnail": "files/Stuffed and starved.jpg_thumb.jpg",
+            "mime_type": "image/jpeg",
+            "width": 1650,
+            "height": 2475,
+            "text": [
+                {
+                    "type": "hashtag",
+                    "text": "#HD9000"
+                },
+                ".5 .P277 2012                                                     ",
+                {
+                    "type": "hashtag",
+                    "text": "#Stuffed"
+                },
+                " and starved                                                     ",
+                {
+                    "type": "hashtag",
+                    "text": "#Rah"
+                },
+                " Patel                                                                         ",
+                {
+                    "type": "hashtag",
+                    "text": "#ISBN"
+                },
+                " 9781612191270                                                         ",
+                {
+                    "type": "hashtag",
+                    "text": "#Page"
+                },
+                ":418"
+            ]
+        },
+        {
+            "id": 28,
+            "type": "message",
+            "date": "2022-07-06T10:20:10",
+            "date_unixtime": "1657084810",
+            "edited": "2022-07-06T10:20:38",
+            "edited_unixtime": "1657084838",
+            "from": "WUTLIBUZ textbooks",
+            "from_id": "channel1548337870",
+            "file": "./files/Business statistics and analytics in practice.jpg",
+            "thumbnail": "files/Business statistics and analytics in practice.jpg_thumb.jpg",
+            "mime_type": "image/jpeg",
+            "width": 374,
+            "height": 499,
+            "text": [
+                {
+                    "type": "hashtag",
+                    "text": "#HF1017"
+                },
+                " .B654 2019                                                             # Business Statistics and Analytics in Practice                                                                                            ",
+                {
+                    "type": "hashtag",
+                    "text": "#Bruce"
+                },
+                " L. Bowerman, Anne M Drougas,William M.  Duckwoth, Amy G. Froelich, Ruth M. Hummel, Kyle B. Moninger, Patrick J. Schur                                                                                                                                ",
+                {
+                    "type": "hashtag",
+                    "text": "#Edition"
+                },
+                " 9                                                                                                                 ",
+                {
+                    "type": "hashtag",
+                    "text": "#ISBN"
+                },
+                " 9781260287844                                                                                                            ",
+                {
+                    "type": "hashtag",
+                    "text": "#Page"
+                },
+                ": 906"
+            ]
+        },
+        {
+            "id": 29,
+            "type": "message",
+            "date": "2022-07-06T10:22:28",
+            "date_unixtime": "1657084948",
+            "from": "WUTLIBUZ textbooks",
+            "from_id": "channel1548337870",
+            "file": "./files/Essentials of marketing.jpg",
+            "thumbnail": "files/Essentials of marketing.jpg_thumb.jpg",
+            "mime_type": "image/jpeg",
+            "width": 313,
+            "height": 400,
+            "text": [
+                {
+                    "type": "hashtag",
+                    "text": "#HF5415"
+                },
+                " .M378 2001                                                                        ",
+                {
+                    "type": "hashtag",
+                    "text": "#Essentials"
+                },
+                " of Marketing                                                                             ",
+                {
+                    "type": "hashtag",
+                    "text": "#William"
+                },
+                " D. Perreault, Joseph P. Cannon, E. Jerome McCarthy                                                                ",
+                {
+                    "type": "hashtag",
+                    "text": "#Edition"
+                },
+                " 17                                                                          ",
+                {
+                    "type": "hashtag",
+                    "text": "#ISBN"
+                },
+                " 9781260570915                                                            ",
+                {
+                    "type": "hashtag",
+                    "text": "#Page"
+                },
+                ": 768"
+            ]
+        },
+        {
+            "id": 30,
+            "type": "message",
+            "date": "2022-07-06T10:23:43",
+            "date_unixtime": "1657085023",
+            "from": "WUTLIBUZ textbooks",
+            "from_id": "channel1548337870",
+            "file": "./files/Evereybody writes.jpg",
+            "thumbnail": "files/Evereybody writes.jpg_thumb.jpg",
+            "mime_type": "image/jpeg",
+            "width": 338,
+            "height": 500,
+            "text": [
+                {
+                    "type": "hashtag",
+                    "text": "#HF5415"
+                },
+                ".1265 .H3578 2014                                                           ",
+                {
+                    "type": "hashtag",
+                    "text": "#Everybody"
+                },
+                " writes                                                                ",
+                {
+                    "type": "hashtag",
+                    "text": "#Ann"
+                },
+                " Handley                                                                     ",
+                {
+                    "type": "hashtag",
+                    "text": "#ISBN"
+                },
+                " 9781118905555                                                             ",
+                {
+                    "type": "hashtag",
+                    "text": "#Page"
+                },
+                ": 298"
+            ]
+        },
+        {
+            "id": 31,
+            "type": "message",
+            "date": "2022-07-06T10:25:27",
+            "date_unixtime": "1657085127",
+            "from": "WUTLIBUZ textbooks",
+            "from_id": "channel1548337870",
+            "file": "./files/Marketing for Enterepreneurs.jpg",
+            "thumbnail": "files/Marketing for Enterepreneurs.jpg_thumb.jpg",
+            "mime_type": "image/jpeg",
+            "width": 266,
+            "height": 400,
+            "text": [
+                {
+                    "type": "hashtag",
+                    "text": "#HF5415"
+                },
+                ".13 .C676 2013                                                                ",
+                {
+                    "type": "hashtag",
+                    "text": "#Marketing"
+                },
+                " for Entrepreneurs                                                           ",
+                {
+                    "type": "hashtag",
+                    "text": "#Frederick"
+                },
+                " G. Crane                                                              ",
+                {
+                    "type": "hashtag",
+                    "text": "#Edition"
+                },
+                " 2                                                                              ",
+                {
+                    "type": "hashtag",
+                    "text": "#ISBN"
+                },
+                " 9781452230047                                                                                                                                                               ",
+                {
+                    "type": "hashtag",
+                    "text": "#Page"
+                },
+                ": 245"
+            ]
+        },
+        {
+            "id": 32,
+            "type": "message",
+            "date": "2022-07-06T10:28:08",
+            "date_unixtime": "1657085288",
+            "from": "WUTLIBUZ textbooks",
+            "from_id": "channel1548337870",
+            "file": "./files/Purchasing& supply chain management.jpg",
+            "thumbnail": "files/Purchasing& supply chain management.jpg_thumb.jpg",
+            "mime_type": "image/jpeg",
+            "width": 394,
+            "height": 500,
+            "text": [
+                {
+                    "type": "hashtag",
+                    "text": "#HF5437"
+                },
+                " .M648 2005                                                                 ",
+                {
+                    "type": "hashtag",
+                    "text": "#Purchasing"
+                },
+                " and supply chain management                                                                               ",
+                {
+                    "type": "hashtag",
+                    "text": "#Rober"
+                },
+                " M. Monczka, Robert B. Handfield, Larry C. Giunipero, James L. Patterson                                               ",
+                {
+                    "type": "hashtag",
+                    "text": "#Edition"
+                },
+                " 6                                                                                         ",
+                {
+                    "type": "hashtag",
+                    "text": "#ISBN"
+                },
+                " 9781285869681                                                                          ",
+                {
+                    "type": "hashtag",
+                    "text": "#Page"
+                },
+                ": 858"
+            ]
+        },
+        {
+            "id": 33,
+            "type": "message",
+            "date": "2022-07-06T10:29:47",
+            "date_unixtime": "1657085387",
+            "from": "WUTLIBUZ textbooks",
+            "from_id": "channel1548337870",
+            "file": "./files/excel 2013.png",
+            "thumbnail": "files/excel 2013.png_thumb.jpg",
+            "mime_type": "image/png",
+            "width": 597,
+            "height": 780,
+            "text": [
+                {
+                    "type": "hashtag",
+                    "text": "#HF5548"
+                },
+                ".4.M523 W4558 2014                                                     ",
+                {
+                    "type": "hashtag",
+                    "text": "#Microsoft"
+                },
+                " Excel 2013 Comprehencive                                         ",
+                {
+                    "type": "hashtag",
+                    "text": "#Eric"
+                },
+                " A. Weinstein                                                                  ",
+                {
+                    "type": "hashtag",
+                    "text": "#ISBN"
+                },
+                " 9781591364832                                                            ",
+                {
+                    "type": "hashtag",
+                    "text": "#Page"
+                },
+                ": 625"
+            ]
+        },
+        {
+            "id": 34,
+            "type": "message",
+            "date": "2022-07-06T10:31:19",
+            "date_unixtime": "1657085479",
+            "from": "WUTLIBUZ textbooks",
+            "from_id": "channel1548337870",
+            "file": "./files/Managing human recources.jfif",
+            "thumbnail": "files/Managing human recources.jfif_thumb.jpg",
+            "mime_type": "image/jpeg",
+            "width": 518,
+            "height": 648,
+            "text": [
+                {
+                    "type": "hashtag",
+                    "text": "#HF5549"
+                },
+                " .C465 2019                                                         ",
+                {
+                    "type": "hashtag",
+                    "text": "#Managing"
+                },
+                " human recources                                          ",
+                {
+                    "type": "hashtag",
+                    "text": "#Scott"
+                },
+                " A. Snell, Shad S. Morris                                            ",
+                {
+                    "type": "hashtag",
+                    "text": "#Edition"
+                },
+                " 18                                                                     ",
+                {
+                    "type": "hashtag",
+                    "text": "#ISBN"
+                },
+                " 9780357033814                                                   ",
+                {
+                    "type": "hashtag",
+                    "text": "#Page"
+                },
+                ": 640"
+            ]
+        },
+        {
+            "id": 35,
+            "type": "message",
+            "date": "2022-07-06T10:32:44",
+            "date_unixtime": "1657085564",
+            "from": "WUTLIBUZ textbooks",
+            "from_id": "channel1548337870",
+            "file": "./files/Fundamental financial accaunting.jpg",
+            "thumbnail": "files/Fundamental financial accaunting.jpg_thumb.jpg",
+            "mime_type": "image/jpeg",
+            "width": 391,
+            "height": 500,
+            "text": [
+                {
+                    "type": "hashtag",
+                    "text": "#HF5636"
+                },
+                " .F86 2019                                                                  ",
+                {
+                    "type": "hashtag",
+                    "text": "#Fundamental"
+                },
+                " Financial Accaunting                                        ",
+                {
+                    "type": "hashtag",
+                    "text": "#Thomas"
+                },
+                " P. Edmonds, Christopher T. Edmonds, Mark A. Edmonds, Frances M. McNair, Philip R. Olds                                                                ",
+                {
+                    "type": "hashtag",
+                    "text": "#Edition"
+                },
+                " 10                                                                         ",
+                {
+                    "type": "hashtag",
+                    "text": "#ISBN"
+                },
+                " 9781260091830                                                             ",
+                {
+                    "type": "hashtag",
+                    "text": "#Page"
+                },
+                ": 761"
+            ]
+        },
+        {
+            "id": 36,
+            "type": "message",
+            "date": "2022-07-06T10:34:10",
+            "date_unixtime": "1657085650",
+            "edited": "2022-07-06T10:34:28",
+            "edited_unixtime": "1657085668",
+            "from": "WUTLIBUZ textbooks",
+            "from_id": "channel1548337870",
+            "file": "./files/Accaunting what numbers mean.jpg",
+            "thumbnail": "files/Accaunting what numbers mean.jpg_thumb.jpg",
+            "mime_type": "image/jpeg",
+            "width": 391,
+            "height": 500,
+            "text": [
+                {
+                    "type": "hashtag",
+                    "text": "#HF5636"
+                },
+                " .M37 2019                                                               ",
+                {
+                    "type": "hashtag",
+                    "text": "#Accounting"
+                },
+                " What the numbers mean?                                                            ",
+                {
+                    "type": "hashtag",
+                    "text": "#David"
+                },
+                " H. Marshall, Wayne W. McManus, Daniel F. Viele                                                                                                                         ",
+                {
+                    "type": "hashtag",
+                    "text": "#Edition"
+                },
+                " 12                                                                                                                                                           ",
+                {
+                    "type": "hashtag",
+                    "text": "#ISBN"
+                },
+                " 9781260565492                                                                                                     ",
+                {
+                    "type": "hashtag",
+                    "text": "#Page"
+                },
+                ": 734"
+            ]
+        },
+        {
+            "id": 37,
+            "type": "message",
+            "date": "2022-07-06T10:36:09",
+            "date_unixtime": "1657085769",
+            "from": "WUTLIBUZ textbooks",
+            "from_id": "channel1548337870",
+            "file": "./files/Survey of accaunting.jpg",
+            "thumbnail": "files/Survey of accaunting.jpg_thumb.jpg",
+            "mime_type": "image/jpeg",
+            "width": 391,
+            "height": 500,
+            "text": [
+                {
+                    "type": "hashtag",
+                    "text": "#HF5636"
+                },
+                " .W338 2018                                                           ",
+                {
+                    "type": "hashtag",
+                    "text": "#Survey"
+                },
+                " of Accounting                                                         ",
+                {
+                    "type": "hashtag",
+                    "text": "#Carl"
+                },
+                " S. Warren                                                               ",
+                {
+                    "type": "hashtag",
+                    "text": "#Edition"
+                },
+                " 8                                                                          ",
+                {
+                    "type": "hashtag",
+                    "text": "#ISBN"
+                },
+                " 9781305961883                                                         ",
+                {
+                    "type": "hashtag",
+                    "text": "#Page"
+                },
+                ":734"
+            ]
+        },
+        {
+            "id": 38,
+            "type": "message",
+            "date": "2022-07-06T10:37:39",
+            "date_unixtime": "1657085859",
+            "edited": "2022-07-06T10:37:53",
+            "edited_unixtime": "1657085873",
+            "from": "WUTLIBUZ textbooks",
+            "from_id": "channel1548337870",
+            "file": "./files/Introduction to managerial accaunting.jpg",
+            "thumbnail": "files/Introduction to managerial accaunting.jpg_thumb.jpg",
+            "mime_type": "image/jpeg",
+            "width": 414,
+            "height": 500,
+            "text": [
+                {
+                    "type": "hashtag",
+                    "text": "#HF5657"
+                },
+                ".4 .B74 2019                                                                       ",
+                {
+                    "type": "hashtag",
+                    "text": "#Introduction"
+                },
+                " to managerial Accounting                                              ",
+                {
+                    "type": "hashtag",
+                    "text": "#Brewer"
+                },
+                " Garrison Noreen                                                         ",
+                {
+                    "type": "hashtag",
+                    "text": "#Edition"
+                },
+                " 8                                                                                                                              ",
+                {
+                    "type": "hashtag",
+                    "text": "#ISBN"
+                },
+                " 9781260091755                                                                                                                                         ",
+                {
+                    "type": "hashtag",
+                    "text": "#Page"
+                },
+                ": 721"
+            ]
+        },
+        {
+            "id": 39,
+            "type": "message",
+            "date": "2022-07-06T12:00:18",
+            "date_unixtime": "1657090818",
+            "edited": "2022-07-06T12:02:05",
+            "edited_unixtime": "1657090925",
+            "from": "WUTLIBUZ textbooks",
+            "from_id": "channel1548337870",
+            "file": "./files/Kotler Keller.jpg",
+            "thumbnail": "files/Kotler Keller.jpg_thumb.jpg",
+            "mime_type": "image/jpeg",
+            "width": 390,
+            "height": 500,
+            "text": [
+                {
+                    "type": "hashtag",
+                    "text": "#HF5415"
+                },
+                ".13 .K6414 2016                                                               ",
+                {
+                    "type": "hashtag",
+                    "text": "#Marketing"
+                },
+                " management                                                                      ",
+                {
+                    "type": "hashtag",
+                    "text": "#Phillip"
+                },
+                " Kottler, Kevin Lane Keller                                                                    ",
+                {
+                    "type": "hashtag",
+                    "text": "#Edition"
+                },
+                " 12                                                                             ",
+                {
+                    "type": "hashtag",
+                    "text": "#ISBN"
+                },
+                " 9781292092621                                                              ",
+                {
+                    "type": "hashtag",
+                    "text": "#Page"
+                },
+                ": 136"
+            ]
+        },
+        {
+            "id": 40,
+            "type": "message",
+            "date": "2022-07-06T12:04:14",
+            "date_unixtime": "1657091054",
+            "from": "WUTLIBUZ textbooks",
+            "from_id": "channel1548337870",
+            "file": "./files/Managerial accaunting.jpg",
+            "thumbnail": "files/Managerial accaunting.jpg_thumb.jpg",
+            "mime_type": "image/jpeg",
+            "width": 390,
+            "height": 499,
+            "text": [
+                {
+                    "type": "hashtag",
+                    "text": "#HF5657"
+                },
+                ".4 .H55 2020                                                                                                    ",
+                {
+                    "type": "hashtag",
+                    "text": "#Managerial"
+                },
+                " Accounting/ Creating Value in a Dynamic Business Environment                                                                  ",
+                {
+                    "type": "hashtag",
+                    "text": "#Ronald"
+                },
+                " W. Hilton/ David E. Platt                                                           ",
+                {
+                    "type": "hashtag",
+                    "text": "#Edition"
+                },
+                " 12                                                                                    ",
+                {
+                    "type": "hashtag",
+                    "text": "#ISBN"
+                },
+                " 9781260566390                                                                ",
+                {
+                    "type": "hashtag",
+                    "text": "#Page"
+                },
+                ": 844"
+            ]
+        },
+        {
+            "id": 41,
+            "type": "message",
+            "date": "2022-07-06T12:06:22",
+            "date_unixtime": "1657091182",
+            "edited": "2022-07-06T12:06:32",
+            "edited_unixtime": "1657091192",
+            "from": "WUTLIBUZ textbooks",
+            "from_id": "channel1548337870",
+            "file": "./files/managerial accaunting the cornerstone.jpg",
+            "thumbnail": "files/managerial accaunting the cornerstone.jpg_thumb.jpg",
+            "mime_type": "image/jpeg",
+            "width": 414,
+            "height": 500,
+            "text": [
+                {
+                    "type": "hashtag",
+                    "text": "#HF5657"
+                },
+                ".4 .M69 2018                                                                      ",
+                {
+                    "type": "hashtag",
+                    "text": "#Managerial"
+                },
+                " Accounting/The cornerstone of Business Decision Making                                                                         ",
+                {
+                    "type": "hashtag",
+                    "text": "#Maryanne"
+                },
+                " M. Mowen, Don R. Hansen, Dan L. Heitger                                                                                        ",
+                {
+                    "type": "hashtag",
+                    "text": "#Edition"
+                },
+                " 7                                                                                                    ",
+                {
+                    "type": "hashtag",
+                    "text": "#ISBN"
+                },
+                " 9781337115773                                                                                     ",
+                {
+                    "type": "hashtag",
+                    "text": "#Page"
+                },
+                ": 919"
+            ]
+        },
+        {
+            "id": 42,
+            "type": "message",
+            "date": "2022-07-06T12:07:52",
+            "date_unixtime": "1657091272",
+            "edited": "2022-07-06T12:08:15",
+            "edited_unixtime": "1657091295",
+            "from": "WUTLIBUZ textbooks",
+            "from_id": "channel1548337870",
+            "file": "./files/Business and administrative communication.jpg",
+            "thumbnail": "files/Business and administrative communication.jpg_thumb.jpg",
+            "mime_type": "image/jpeg",
+            "width": 312,
+            "height": 400,
+            "text": [
+                {
+                    "type": "hashtag",
+                    "text": "#HF5718"
+                },
+                " .L63 2015                                                                                             ",
+                {
+                    "type": "hashtag",
+                    "text": "#Business"
+                },
+                " Administrative and Communication                                                                                                ",
+                {
+                    "type": "hashtag",
+                    "text": "#Kitty"
+                },
+                " O/ Locker, Jo Mackiewicz, Jeanine Elise Aune, Donna S. Kienzler                                                                                                         ",
+                {
+                    "type": "hashtag",
+                    "text": "#Edition"
+                },
+                " 12                                                                                                                             ",
+                {
+                    "type": "hashtag",
+                    "text": "#ISBN"
+                },
+                " 9781260288384                                                                                                          ",
+                {
+                    "type": "hashtag",
+                    "text": "#Page"
+                },
+                ": 642"
+            ]
+        },
+        {
+            "id": 43,
+            "type": "message",
+            "date": "2022-07-06T12:10:38",
+            "date_unixtime": "1657091438",
+            "from": "WUTLIBUZ textbooks",
+            "from_id": "channel1548337870",
+            "file": "./files/Business communication.jpeg",
+            "thumbnail": "files/Business communication.jpeg_thumb.jpg",
+            "mime_type": "image/jpeg",
+            "width": 265,
+            "height": 333,
+            "text": [
+                {
+                    "type": "hashtag",
+                    "text": "#HF5718"
+                },
+                " .R466 2021                                                                                          ",
+                {
+                    "type": "hashtag",
+                    "text": "#Business"
+                },
+                " Communication                                                                  ",
+                {
+                    "type": "hashtag",
+                    "text": "#Kathryn"
+                },
+                " Rentz & Paula Lentz                                                  ",
+                {
+                    "type": "hashtag",
+                    "text": "#Edition"
+                },
+                " 2                                                                                         ",
+                {
+                    "type": "hashtag",
+                    "text": "#ISBN"
+                },
+                " 9781260571066                                                    ",
+                {
+                    "type": "hashtag",
+                    "text": "#Page"
+                },
+                ": 718"
+            ]
+        },
+        {
+            "id": 44,
+            "type": "message",
+            "date": "2022-07-06T12:12:16",
+            "date_unixtime": "1657091536",
+            "edited": "2022-07-06T12:12:23",
+            "edited_unixtime": "1657091543",
+            "from": "WUTLIBUZ textbooks",
+            "from_id": "channel1548337870",
+            "file": "./files/Financial management.jpg",
+            "thumbnail": "files/Financial management.jpg_thumb.jpg",
+            "mime_type": "image/jpeg",
+            "width": 375,
+            "height": 499,
+            "text": [
+                {
+                    "type": "hashtag",
+                    "text": "#HG4026"
+                },
+                " .B669 2019                                                                         ",
+                {
+                    "type": "hashtag",
+                    "text": "#Financial"
+                },
+                " Management Theory and practice                                                                                     ",
+                {
+                    "type": "hashtag",
+                    "text": "#Eugene"
+                },
+                " F. Brigham,Micheal C.  Ehrhardt, Roland Fox                                                 ",
+                {
+                    "type": "hashtag",
+                    "text": "#Edition"
+                },
+                " 2                                                                           ",
+                {
+                    "type": "hashtag",
+                    "text": "#ISBN"
+                },
+                " 9781473760219                                                  ",
+                {
+                    "type": "hashtag",
+                    "text": "#Page"
+                },
+                ": 637"
+            ]
+        },
+        {
+            "id": 45,
+            "type": "message",
+            "date": "2022-07-06T12:15:45",
+            "date_unixtime": "1657091745",
+            "from": "WUTLIBUZ textbooks",
+            "from_id": "channel1548337870",
+            "file": "./files/Enterepreneurial financial management.jpg",
+            "thumbnail": "files/Enterepreneurial financial management.jpg_thumb.jpg",
+            "mime_type": "image/jpeg",
+            "width": 405,
+            "height": 500,
+            "text": [
+                {
+                    "type": "hashtag",
+                    "text": "#HG4026"
+                },
+                " .C637 2020                                                                      ",
+                {
+                    "type": "hashtag",
+                    "text": "#Enterpreneurial"
+                },
+                " Financial Management                                               ",
+                {
+                    "type": "hashtag",
+                    "text": "#Jeffrey"
+                },
+                " R. Cornwall, David O. Vang and Jean M. Hartman                                                                             ",
+                {
+                    "type": "hashtag",
+                    "text": "#Edition"
+                },
+                " 5                                                                                       ",
+                {
+                    "type": "hashtag",
+                    "text": "#ISBN"
+                },
+                " 9780367335427                                                                                    ",
+                {
+                    "type": "hashtag",
+                    "text": "#Page"
+                },
+                ": 326"
+            ]
+        },
+        {
+            "id": 46,
+            "type": "message",
+            "date": "2022-07-06T12:18:37",
+            "date_unixtime": "1657091917",
+            "from": "WUTLIBUZ textbooks",
+            "from_id": "channel1548337870",
+            "file": "./files/Essentials of Corporate finance.jpg.png",
+            "thumbnail": "files/Essentials of Corporate finance.jpg.png_thumb.jpg",
+            "mime_type": "image/png",
+            "width": 500,
+            "height": 625,
+            "text": [
+                {
+                    "type": "hashtag",
+                    "text": "#HG4026"
+                },
+                " .R676  2020                                                                       ",
+                {
+                    "type": "hashtag",
+                    "text": "#Essentials"
+                },
+                " of Corporate Finance                                           ",
+                {
+                    "type": "hashtag",
+                    "text": "#Stephen"
+                },
+                " A. Ross, Randolph W. Westerfield, Bradford D. Jordan                                                                                  ",
+                {
+                    "type": "hashtag",
+                    "text": "#Edition"
+                },
+                " 10                                                                                                   ",
+                {
+                    "type": "hashtag",
+                    "text": "#ISBN"
+                },
+                " 9781260565560                                                               ",
+                {
+                    "type": "hashtag",
+                    "text": "#Page"
+                },
+                ": 652"
+            ]
+        },
+        {
+            "id": 47,
+            "type": "message",
+            "date": "2022-07-06T12:20:55",
+            "date_unixtime": "1657092055",
+            "from": "WUTLIBUZ textbooks",
+            "from_id": "channel1548337870",
+            "file": "./files/Interviews.png",
+            "thumbnail": "files/Interviews.png_thumb.jpg",
+            "mime_type": "image/png",
+            "width": 489,
+            "height": 732,
+            "text": [
+                {
+                    "type": "hashtag",
+                    "text": "#HM571"
+                },
+                " .K9 2015 ",
+                {
+                    "type": "hashtag",
+                    "text": "#Interviews"
+                },
+                "                                                                        ",
+                {
+                    "type": "hashtag",
+                    "text": "#Swend"
+                },
+                " Brinkmann, Steinar Kvale                                 ",
+                {
+                    "type": "hashtag",
+                    "text": "#Edition"
+                },
+                " 3                                                                        ",
+                {
+                    "type": "hashtag",
+                    "text": "#ISBN"
+                },
+                " 9781452275721                                                            ",
+                {
+                    "type": "hashtag",
+                    "text": "#Page"
+                },
+                ": 405"
+            ]
+        },
+        {
+            "id": 48,
+            "type": "message",
+            "date": "2022-07-06T12:22:11",
+            "date_unixtime": "1657092131",
+            "from": "WUTLIBUZ textbooks",
+            "from_id": "channel1548337870",
+            "file": "./files/Social engineering.jpg",
+            "thumbnail": "files/Social engineering.jpg_thumb.jpg",
+            "mime_type": "image/jpeg",
+            "width": 426,
+            "height": 640,
+            "text": [
+                {
+                    "type": "hashtag",
+                    "text": "#HM668"
+                },
+                " .H33 2018                                                               ",
+                {
+                    "type": "hashtag",
+                    "text": "#Social"
+                },
+                " Engineering                                                ",
+                {
+                    "type": "hashtag",
+                    "text": "#Christopher"
+                },
+                " Hadnagy                                            ",
+                {
+                    "type": "hashtag",
+                    "text": "#Edition"
+                },
+                " 2                                                                    ",
+                {
+                    "type": "hashtag",
+                    "text": "#ISBN"
+                },
+                " 9781119433385                                             ",
+                {
+                    "type": "hashtag",
+                    "text": "#Page"
+                },
+                ": 297"
+            ]
+        },
+        {
+            "id": 49,
+            "type": "message",
+            "date": "2022-07-06T12:23:28",
+            "date_unixtime": "1657092208",
+            "from": "WUTLIBUZ textbooks",
+            "from_id": "channel1548337870",
+            "file": "./files/cyber.jpg",
+            "thumbnail": "files/cyber.jpg_thumb.jpg",
+            "mime_type": "image/jpeg",
+            "width": 525,
+            "height": 770,
+            "text": [
+                {
+                    "type": "hashtag",
+                    "text": "#HM851"
+                },
+                " .D94 2015                                                     ",
+                {
+                    "type": "hashtag",
+                    "text": "#Cyber"
+                },
+                " Proletariat                                                             ",
+                {
+                    "type": "hashtag",
+                    "text": "#Nick"
+                },
+                " Dyer-Witheford                                                           ",
+                {
+                    "type": "hashtag",
+                    "text": "#ISBN"
+                },
+                " 9780745334035                                                ",
+                {
+                    "type": "hashtag",
+                    "text": "#Page"
+                },
+                ": 248"
+            ]
+        },
+        {
+            "id": 50,
+            "type": "message",
+            "date": "2022-07-06T12:24:51",
+            "date_unixtime": "1657092291",
+            "from": "WUTLIBUZ textbooks",
+            "from_id": "channel1548337870",
+            "file": "./files/Reflect and relate.jpg",
+            "thumbnail": "files/Reflect and relate.jpg_thumb.jpg",
+            "mime_type": "image/jpeg",
+            "width": 391,
+            "height": 499,
+            "text": [
+                {
+                    "type": "hashtag",
+                    "text": "#HM1166"
+                },
+                " .M36 2019                                               ",
+                {
+                    "type": "hashtag",
+                    "text": "#Reflect"
+                },
+                " and Relate                                                            ",
+                {
+                    "type": "hashtag",
+                    "text": "#Steven"
+                },
+                " McCornack, Kelly Morrison                                             ",
+                {
+                    "type": "hashtag",
+                    "text": "#Edition"
+                },
+                " 5                                                                            ",
+                {
+                    "type": "hashtag",
+                    "text": "#ISBN"
+                },
+                " 9781319103323                                                ",
+                {
+                    "type": "hashtag",
+                    "text": "#Page"
+                },
+                ": 440"
+            ]
+        },
+        {
+            "id": 51,
+            "type": "message",
+            "date": "2022-07-06T12:26:16",
+            "date_unixtime": "1657092376",
+            "from": "WUTLIBUZ textbooks",
+            "from_id": "channel1548337870",
+            "file": "./files/Public relations writing.jpg",
+            "thumbnail": "files/Public relations writing.jpg_thumb.jpg",
+            "mime_type": "image/jpeg",
+            "width": 401,
+            "height": 500,
+            "text": [
+                {
+                    "type": "hashtag",
+                    "text": "#HM1221"
+                },
+                " .N478 2017                                            ",
+                {
+                    "type": "hashtag",
+                    "text": "#Public"
+                },
+                " Relations writing strategies structures                                                                        ",
+                {
+                    "type": "hashtag",
+                    "text": "#Doug"
+                },
+                " Newsom, Jim Haynes                               ",
+                {
+                    "type": "hashtag",
+                    "text": "#Edition"
+                },
+                " 11                                                                       ",
+                {
+                    "type": "hashtag",
+                    "text": "#ISBN"
+                },
+                " 9781305500006                                                               ",
+                {
+                    "type": "hashtag",
+                    "text": "#Page"
+                },
+                ": 362"
+            ]
+        },
+        {
+            "id": 52,
+            "type": "message",
+            "date": "2022-07-06T12:27:45",
+            "date_unixtime": "1657092465",
+            "from": "WUTLIBUZ textbooks",
+            "from_id": "channel1548337870",
+            "file": "./files/Introduction to political theory.jpg",
+            "thumbnail": "files/Introduction to political theory.jpg_thumb.jpg",
+            "mime_type": "image/jpeg",
+            "width": 600,
+            "height": 600,
+            "text": [
+                {
+                    "type": "hashtag",
+                    "text": "#JA71"
+                },
+                " .H6133 2015                                                                                  ",
+                {
+                    "type": "hashtag",
+                    "text": "#Introduction"
+                },
+                " to Political theory                              ",
+                {
+                    "type": "hashtag",
+                    "text": "#John"
+                },
+                " Hoffman and Paul Graham                       ",
+                {
+                    "type": "hashtag",
+                    "text": "#Edition"
+                },
+                " 3                                                                     ",
+                {
+                    "type": "hashtag",
+                    "text": "#ISBN"
+                },
+                " 9781408285923                                                      ",
+                {
+                    "type": "hashtag",
+                    "text": "#Page"
+                },
+                ": 524"
+            ]
+        },
+        {
+            "id": 53,
+            "type": "message",
+            "date": "2022-07-06T12:30:26",
+            "date_unixtime": "1657092626",
+            "from": "WUTLIBUZ textbooks",
+            "from_id": "channel1548337870",
+            "file": "./files/Political philosophy.jpg",
+            "thumbnail": "files/Political philosophy.jpg_thumb.jpg",
+            "mime_type": "image/jpeg",
+            "width": 323,
+            "height": 400,
+            "text": [
+                {
+                    "type": "hashtag",
+                    "text": "#JA71"
+                },
+                " .P6225 2015                                                     ",
+                {
+                    "type": "hashtag",
+                    "text": "#Politica"
+                },
+                " Pilosophy                                                                     ",
+                {
+                    "type": "hashtag",
+                    "text": "#Steven"
+                },
+                " M. Cahn                                                    ",
+                {
+                    "type": "hashtag",
+                    "text": "#Edition"
+                },
+                " 3                                                                     ",
+                {
+                    "type": "hashtag",
+                    "text": "#ISBN"
+                },
+                " 9780190201081                                                               ",
+                {
+                    "type": "hashtag",
+                    "text": "#Page"
+                },
+                ":1128"
+            ]
+        },
+        {
+            "id": 54,
+            "type": "message",
+            "date": "2022-07-06T12:32:07",
+            "date_unixtime": "1657092727",
+            "from": "WUTLIBUZ textbooks",
+            "from_id": "channel1548337870",
+            "file": "./files/Essentials of Comparative politics.jpg",
+            "thumbnail": "files/Essentials of Comparative politics.jpg_thumb.jpg",
+            "mime_type": "image/jpeg",
+            "width": 369,
+            "height": 500,
+            "text": [
+                {
+                    "type": "hashtag",
+                    "text": "#JF51"
+                },
+                " .O54 2021                                                              ",
+                {
+                    "type": "hashtag",
+                    "text": "#Essentials"
+                },
+                " of Comparative Politics                                                       ",
+                {
+                    "type": "hashtag",
+                    "text": "#Patrick"
+                },
+                " H. O'Neil                                                          ",
+                {
+                    "type": "hashtag",
+                    "text": "#Edition"
+                },
+                " 7                                                                                          ",
+                {
+                    "type": "hashtag",
+                    "text": "#ISBN"
+                },
+                " 9780393532937                                                        ",
+                {
+                    "type": "hashtag",
+                    "text": "#Page"
+                },
+                ": 452"
+            ]
+        },
+        {
+            "id": 55,
+            "type": "message",
+            "date": "2022-07-06T12:33:27",
+            "date_unixtime": "1657092807",
+            "from": "WUTLIBUZ textbooks",
+            "from_id": "channel1548337870",
+            "file": "./files/International relations.jpg",
+            "thumbnail": "files/International relations.jpg_thumb.jpg",
+            "mime_type": "image/jpeg",
+            "width": 391,
+            "height": 500,
+            "text": [
+                {
+                    "type": "hashtag",
+                    "text": "#JZ1242"
+                },
+                " .P49 2020                                               ",
+                {
+                    "type": "hashtag",
+                    "text": "#International"
+                },
+                " Relations                                                                                                    ",
+                {
+                    "type": "hashtag",
+                    "text": "#Jon"
+                },
+                " C. W. Pevehous, Joshua S. Goldstein                              ",
+                {
+                    "type": "hashtag",
+                    "text": "#Edition"
+                },
+                " 12                                                                     ",
+                {
+                    "type": "hashtag",
+                    "text": "#ISBN"
+                },
+                " 9781292350325                                                               ",
+                {
+                    "type": "hashtag",
+                    "text": "#Page"
+                },
+                ": 512"
+            ]
+        },
+        {
+            "id": 56,
+            "type": "message",
+            "date": "2022-07-06T12:34:55",
+            "date_unixtime": "1657092895",
+            "from": "WUTLIBUZ textbooks",
+            "from_id": "channel1548337870",
+            "file": "./files/Globalization.jpg",
+            "thumbnail": "files/Globalization.jpg_thumb.jpg",
+            "mime_type": "image/jpeg",
+            "width": 318,
+            "height": 499,
+            "text": [
+                {
+                    "type": "hashtag",
+                    "text": "#JZ1318"
+                },
+                " .S74 2017                                           ",
+                {
+                    "type": "hashtag",
+                    "text": "#Globalization"
+                },
+                "                                                          ",
+                {
+                    "type": "hashtag",
+                    "text": "#Manfred"
+                },
+                " B. Steger                                                                  ",
+                {
+                    "type": "hashtag",
+                    "text": "#ISBN"
+                },
+                " 9780198779551                                             ",
+                {
+                    "type": "hashtag",
+                    "text": "#Page"
+                },
+                ": 148"
+            ]
+        },
+        {
+            "id": 57,
+            "type": "message",
+            "date": "2022-07-06T12:36:28",
+            "date_unixtime": "1657092988",
+            "edited": "2022-07-06T12:36:35",
+            "edited_unixtime": "1657092995",
+            "from": "WUTLIBUZ textbooks",
+            "from_id": "channel1548337870",
+            "file": "./files/Understanding global security.jpg",
+            "thumbnail": "files/Understanding global security.jpg_thumb.jpg",
+            "mime_type": "image/jpeg",
+            "width": 354,
+            "height": 499,
+            "text": [
+                {
+                    "type": "hashtag",
+                    "text": "#JZ5595"
+                },
+                " .H68 2018                                                  ",
+                {
+                    "type": "hashtag",
+                    "text": "#Understanding"
+                },
+                " global security                                                          ",
+                {
+                    "type": "hashtag",
+                    "text": "#Peter"
+                },
+                " Hough                                                      ",
+                {
+                    "type": "hashtag",
+                    "text": "#Edition"
+                },
+                " 4                                                                          ",
+                {
+                    "type": "hashtag",
+                    "text": "#ISBN"
+                },
+                " 9781138726833                                                                   ",
+                {
+                    "type": "hashtag",
+                    "text": "#Page"
+                },
+                ": 302"
+            ]
+        },
+        {
+            "id": 58,
+            "type": "message",
+            "date": "2022-07-06T12:38:13",
+            "date_unixtime": "1657093093",
+            "from": "WUTLIBUZ textbooks",
+            "from_id": "channel1548337870",
+            "file": "./files/Music.png",
+            "thumbnail": "files/Music.png_thumb.jpg",
+            "mime_type": "image/png",
+            "width": 626,
+            "height": 788,
+            "text": [
+                {
+                    "type": "hashtag",
+                    "text": "#MT90"
+                },
+                " .K342 2018                                                           ",
+                {
+                    "type": "hashtag",
+                    "text": "#Music"
+                },
+                "                                                                          ",
+                {
+                    "type": "hashtag",
+                    "text": "#Roger"
+                },
+                " Kamien                                                      ",
+                {
+                    "type": "hashtag",
+                    "text": "#Edition"
+                },
+                " 9                                                              ",
+                {
+                    "type": "hashtag",
+                    "text": "#ISBN"
+                },
+                " 9781260083934                                              ",
+                {
+                    "type": "hashtag",
+                    "text": "#Page"
+                },
+                ": 464"
+            ]
+        },
+        {
+            "id": 59,
+            "type": "message",
+            "date": "2022-07-06T12:39:47",
+            "date_unixtime": "1657093187",
+            "from": "WUTLIBUZ textbooks",
+            "from_id": "channel1548337870",
+            "file": "./files/Soundscapes.jpg",
+            "thumbnail": "files/Soundscapes.jpg_thumb.jpg",
+            "mime_type": "image/jpeg",
+            "width": 401,
+            "height": 500,
+            "text": [
+                {
+                    "type": "hashtag",
+                    "text": "#MT90"
+                },
+                " .S53 2006                                                                                 ",
+                {
+                    "type": "hashtag",
+                    "text": "#Soundscapes"
+                },
+                "                                                             ",
+                {
+                    "type": "hashtag",
+                    "text": "#Kay"
+                },
+                " Kaufman Shelemay                                                  ",
+                {
+                    "type": "hashtag",
+                    "text": "#Edition"
+                },
+                " 2                                                                                   ",
+                {
+                    "type": "hashtag",
+                    "text": "#ISBN"
+                },
+                " 9780393925678                                                ",
+                {
+                    "type": "hashtag",
+                    "text": "#Page"
+                },
+                ": 534"
+            ]
+        },
+        {
+            "id": 60,
+            "type": "message",
+            "date": "2022-07-06T12:41:43",
+            "date_unixtime": "1657093303",
+            "from": "WUTLIBUZ textbooks",
+            "from_id": "channel1548337870",
+            "file": "./files/Teaching by princeples.jpg",
+            "thumbnail": "files/Teaching by princeples.jpg_thumb.jpg",
+            "mime_type": "image/jpeg",
+            "width": 304,
+            "height": 400,
+            "text": [
+                {
+                    "type": "hashtag",
+                    "text": "#P51"
+                },
+                " .B7754 2015                                                  ",
+                {
+                    "type": "hashtag",
+                    "text": "#Teaching"
+                },
+                " by principles                                                                    ",
+                {
+                    "type": "hashtag",
+                    "text": "#H"
+                },
+                ". Douglas Brown, Heekyeong Lee                                             ",
+                {
+                    "type": "hashtag",
+                    "text": "#Edition"
+                },
+                " 4                                                                        ",
+                {
+                    "type": "hashtag",
+                    "text": "#ISBN"
+                },
+                " 9780133925852                                                                             ",
+                {
+                    "type": "hashtag",
+                    "text": "#Page"
+                },
+                ": 668"
+            ]
+        },
+        {
+            "id": 61,
+            "type": "message",
+            "date": "2022-07-06T12:42:50",
+            "date_unixtime": "1657093370",
+            "from": "WUTLIBUZ textbooks",
+            "from_id": "channel1548337870",
+            "photo": "photos/photo_1@06-07-2022_12-42-50.jpg",
+            "width": 534,
+            "height": 786,
+            "text": [
+                {
+                    "type": "hashtag",
+                    "text": "#P53"
+                },
+                " .C45 2019                                                  ",
+                {
+                    "type": "hashtag",
+                    "text": "#Reconceptualizing"
+                },
+                " Language teaching                              ",
+                {
+                    "type": "hashtag",
+                    "text": "#David"
+                },
+                " L. Chiesa, Ulugbek Azizov, Svetlana Khan, Klara Nazmutdinova, Komila Tangirova                                                          ",
+                {
+                    "type": "hashtag",
+                    "text": "#ISBN"
+                },
+                " 9789943580992                                                               ",
+                {
+                    "type": "hashtag",
+                    "text": "#Page"
+                },
+                ": 205"
+            ]
+        },
+        {
+            "id": 62,
+            "type": "message",
+            "date": "2022-07-06T12:44:27",
+            "date_unixtime": "1657093467",
+            "edited": "2022-07-06T12:44:42",
+            "edited_unixtime": "1657093482",
+            "from": "WUTLIBUZ textbooks",
+            "from_id": "channel1548337870",
+            "file": "./files/Curriculum development in language teaching.jpg",
+            "thumbnail": "files/Curriculum development in language teaching.jpg_thumb.jpg",
+            "mime_type": "image/jpeg",
+            "width": 333,
+            "height": 499,
+            "text": [
+                {
+                    "type": "hashtag",
+                    "text": "#P53"
+                },
+                ".295 .R53 2001                                                                                     ",
+                {
+                    "type": "hashtag",
+                    "text": "#Curriculum"
+                },
+                " development Language teaching                                                                                                                           ",
+                {
+                    "type": "hashtag",
+                    "text": "#Jack"
+                },
+                " C. Richards                                                                                              ",
+                {
+                    "type": "hashtag",
+                    "text": "#ISBN"
+                },
+                " 9780521804912                                                                             ",
+                {
+                    "type": "hashtag",
+                    "text": "#Page"
+                },
+                ": 321"
+            ]
+        },
+        {
+            "id": 63,
+            "type": "message",
+            "date": "2022-07-06T12:46:44",
+            "date_unixtime": "1657093604",
+            "edited": "2022-07-06T12:47:06",
+            "edited_unixtime": "1657093626",
+            "from": "WUTLIBUZ textbooks",
+            "from_id": "channel1548337870",
+            "file": "./files/Introduction to mass communication.jpg",
+            "thumbnail": "files/Introduction to mass communication.jpg_thumb.jpg",
+            "mime_type": "image/jpeg",
+            "width": 396,
+            "height": 499,
+            "text": [
+                {
+                    "type": "hashtag",
+                    "text": "#P90"
+                },
+                " .B284 2017                                                                                                  ",
+                {
+                    "type": "hashtag",
+                    "text": "#Introduction"
+                },
+                " to Mass Communication                                         ",
+                {
+                    "type": "hashtag",
+                    "text": "#Stanley"
+                },
+                " J. Baran                                                                                   ",
+                {
+                    "type": "hashtag",
+                    "text": "#Edition"
+                },
+                " 9                                                                                               ",
+                {
+                    "type": "hashtag",
+                    "text": "#ISBN"
+                },
+                " 9781259921490                                                                         ",
+                {
+                    "type": "hashtag",
+                    "text": "#Page"
+                },
+                ": 421"
+            ]
+        },
+        {
+            "id": 64,
+            "type": "message",
+            "date": "2022-07-06T12:48:43",
+            "date_unixtime": "1657093723",
+            "edited": "2022-07-06T12:49:13",
+            "edited_unixtime": "1657093753",
+            "from": "WUTLIBUZ textbooks",
+            "from_id": "channel1548337870",
+            "file": "./files/21st century communication student's.jpg",
+            "thumbnail": "files/21st century communication student's.jpg_thumb.jpg",
+            "mime_type": "image/jpeg",
+            "width": 390,
+            "height": 500,
+            "text": [
+                {
+                    "type": "hashtag",
+                    "text": "#P90"
+                },
+                " .L376 2017                                                                                                            ",
+                {
+                    "type": "hashtag",
+                    "text": "#21nd"
+                },
+                " century communication Student's book                                                                                                                                         ",
+                {
+                    "type": "hashtag",
+                    "text": "#Christen"
+                },
+                " Lee                                                                                                              ",
+                {
+                    "type": "hashtag",
+                    "text": "#ISBN"
+                },
+                " 9781337275835                                                                                                     ",
+                {
+                    "type": "hashtag",
+                    "text": "#Page"
+                },
+                ": 184"
+            ]
+        },
+        {
+            "id": 65,
+            "type": "message",
+            "date": "2022-07-06T12:50:23",
+            "date_unixtime": "1657093823",
+            "edited": "2022-07-06T12:50:32",
+            "edited_unixtime": "1657093832",
+            "from": "WUTLIBUZ textbooks",
+            "from_id": "channel1548337870",
+            "file": "./files/21st century communication teacher's.jpg",
+            "thumbnail": "files/21st century communication teacher's.jpg_thumb.jpg",
+            "mime_type": "image/jpeg",
+            "width": 391,
+            "height": 500,
+            "text": [
+                {
+                    "type": "hashtag",
+                    "text": "#P90"
+                },
+                " .L376 2017                                                                                       ",
+                {
+                    "type": "hashtag",
+                    "text": "#21st"
+                },
+                " century communication Teacher's book                                                                          ",
+                {
+                    "type": "hashtag",
+                    "text": "#Christen"
+                },
+                " Lee                                                                                                      ",
+                {
+                    "type": "hashtag",
+                    "text": "#ISBN"
+                },
+                " 9781305955547                                                                                              ",
+                {
+                    "type": "hashtag",
+                    "text": "#Page"
+                },
+                ": 92"
+            ]
+        },
+        {
+            "id": 66,
+            "type": "message",
+            "date": "2022-07-06T12:52:04",
+            "date_unixtime": "1657093924",
+            "from": "WUTLIBUZ textbooks",
+            "from_id": "channel1548337870",
+            "file": "./files/Media messages.jpg",
+            "thumbnail": "files/Media messages.jpg_thumb.jpg",
+            "mime_type": "image/jpeg",
+            "width": 353,
+            "height": 499,
+            "text": [
+                {
+                    "type": "hashtag",
+                    "text": "#P94"
+                },
+                ".5.M552 .U646 2014                                                 ",
+                {
+                    "type": "hashtag",
+                    "text": "#Media"
+                },
+                " Messages                                                        ",
+                {
+                    "type": "hashtag",
+                    "text": "#Linda"
+                },
+                " Holtzman, Leon Sharpe                              ",
+                {
+                    "type": "hashtag",
+                    "text": "#Edition"
+                },
+                " 2                                                                   ",
+                {
+                    "type": "hashtag",
+                    "text": "#ISBN"
+                },
+                " 9780765617576                                               ",
+                {
+                    "type": "hashtag",
+                    "text": "#Page"
+                },
+                ": 534"
+            ]
+        },
+        {
+            "id": 67,
+            "type": "message",
+            "date": "2022-07-06T12:53:44",
+            "date_unixtime": "1657094024",
+            "from": "WUTLIBUZ textbooks",
+            "from_id": "channel1548337870",
+            "file": "./files/Media literacy.jpg",
+            "thumbnail": "files/Media literacy.jpg_thumb.jpg",
+            "mime_type": "image/jpeg",
+            "width": 333,
+            "height": 499,
+            "text": [
+                {
+                    "type": "hashtag",
+                    "text": "#P96"
+                },
+                ".M4 .S594 2014                                                ",
+                {
+                    "type": "hashtag",
+                    "text": "#Media"
+                },
+                " Literacy                                                         ",
+                {
+                    "type": "hashtag",
+                    "text": "#Art"
+                },
+                " Silverblatt, Andrew Smith, Don Miller, Julie Smith and Nikole Brown                          ",
+                {
+                    "type": "hashtag",
+                    "text": "#Edition"
+                },
+                " 4                                                                            ",
+                {
+                    "type": "hashtag",
+                    "text": "#ISBN"
+                },
+                " 9781440831157                                                                     ",
+                {
+                    "type": "hashtag",
+                    "text": "#Page"
+                },
+                ": 548"
+            ]
+        },
+        {
+            "id": 68,
+            "type": "message",
+            "date": "2022-07-06T12:54:56",
+            "date_unixtime": "1657094096",
+            "from": "WUTLIBUZ textbooks",
+            "from_id": "channel1548337870",
+            "file": "./files/Teaching and learning pragmatics.jpg",
+            "thumbnail": "files/Teaching and learning pragmatics.jpg_thumb.jpg",
+            "mime_type": "image/jpeg",
+            "width": 333,
+            "height": 499,
+            "text": [
+                {
+                    "type": "hashtag",
+                    "text": "#P99"
+                },
+                ".4.P72 .I85 2010                                                               ",
+                {
+                    "type": "hashtag",
+                    "text": "#Teaching"
+                },
+                " and learning pragmatics                                            ",
+                {
+                    "type": "hashtag",
+                    "text": "#Noriko"
+                },
+                " Ishihara & Andrew D.Kohen                                   ",
+                {
+                    "type": "hashtag",
+                    "text": "#ISBN"
+                },
+                " 9781408204573                                                        ",
+                {
+                    "type": "hashtag",
+                    "text": "#Page"
+                },
+                ": 370"
+            ]
+        },
+        {
+            "id": 69,
+            "type": "message",
+            "date": "2022-07-06T12:56:27",
+            "date_unixtime": "1657094187",
+            "from": "WUTLIBUZ textbooks",
+            "from_id": "channel1548337870",
+            "file": "./files/How to teach grammar.jpg",
+            "thumbnail": "files/How to teach grammar.jpg_thumb.jpg",
+            "mime_type": "image/jpeg",
+            "width": 384,
+            "height": 500,
+            "text": [
+                {
+                    "type": "hashtag",
+                    "text": "#PE1065"
+                },
+                " .T46 1999                                                                                      ",
+                {
+                    "type": "hashtag",
+                    "text": "#How"
+                },
+                " to teach grammar                                                                    ",
+                {
+                    "type": "hashtag",
+                    "text": "#Scott"
+                },
+                " Thornbury                                                      ",
+                {
+                    "type": "hashtag",
+                    "text": "#ISBN"
+                },
+                " 9780582339323                                                                         ",
+                {
+                    "type": "hashtag",
+                    "text": "#Page"
+                },
+                ": 182"
+            ]
+        },
+        {
+            "id": 70,
+            "type": "message",
+            "date": "2022-07-06T12:58:08",
+            "date_unixtime": "1657094288",
+            "edited": "2022-07-06T12:58:20",
+            "edited_unixtime": "1657094300",
+            "from": "WUTLIBUZ textbooks",
+            "from_id": "channel1548337870",
+            "file": "./files/English file elementary Student's book.jpg",
+            "thumbnail": "files/English file elementary Student's book.jpg_thumb.jpg",
+            "mime_type": "image/jpeg",
+            "width": 900,
+            "height": 1145,
+            "text": [
+                {
+                    "type": "hashtag",
+                    "text": "#PE1128"
+                },
+                " .L38 2012 ST                                                                ",
+                {
+                    "type": "hashtag",
+                    "text": "#English"
+                },
+                " file elementary Student's book                                                ",
+                {
+                    "type": "hashtag",
+                    "text": "#Christina"
+                },
+                " Latham-Koenig, Clive Oxenden, Paul Seligson, Jane Hudson                                                                                    ",
+                {
+                    "type": "hashtag",
+                    "text": "#Edition"
+                },
+                " 3                                                                                                              ",
+                {
+                    "type": "hashtag",
+                    "text": "#ISBN"
+                },
+                " 9780194598569                                                                                                 ",
+                {
+                    "type": "hashtag",
+                    "text": "#Page"
+                },
+                ": 168"
+            ]
+        },
+        {
+            "id": 71,
+            "type": "message",
+            "date": "2022-07-06T12:59:29",
+            "date_unixtime": "1657094369",
+            "edited": "2022-07-06T12:59:34",
+            "edited_unixtime": "1657094374",
+            "from": "WUTLIBUZ textbooks",
+            "from_id": "channel1548337870",
+            "file": "./files/English file elementary workbook.jpg",
+            "thumbnail": "files/English file elementary workbook.jpg_thumb.jpg",
+            "mime_type": "image/jpeg",
+            "width": 395,
+            "height": 500,
+            "text": [
+                {
+                    "type": "hashtag",
+                    "text": "#PE1128"
+                },
+                " .L38 2012 ST                                                                 ",
+                {
+                    "type": "hashtag",
+                    "text": "#English"
+                },
+                " file elementary workbook                                              ",
+                {
+                    "type": "hashtag",
+                    "text": "#Christina"
+                },
+                " Latham-Koenig, Clive Oxenden, Paul Seligson, Jane Hudson                                             ",
+                {
+                    "type": "hashtag",
+                    "text": "#Edition"
+                },
+                " 3                                                                               ",
+                {
+                    "type": "hashtag",
+                    "text": "#ISBN"
+                },
+                " 9780194598200                                                             ",
+                {
+                    "type": "hashtag",
+                    "text": "#Page"
+                },
+                ": 95"
+            ]
+        },
+        {
+            "id": 72,
+            "type": "message",
+            "date": "2022-07-06T13:00:49",
+            "date_unixtime": "1657094449",
+            "from": "WUTLIBUZ textbooks",
+            "from_id": "channel1548337870",
+            "file": "./files/Pathways.jpg",
+            "thumbnail": "files/Pathways.jpg_thumb.jpg",
+            "mime_type": "image/jpeg",
+            "width": 391,
+            "height": 499,
+            "text": [
+                {
+                    "type": "hashtag",
+                    "text": "#PE1128"
+                },
+                " .M33 2018                                                         ",
+                {
+                    "type": "hashtag",
+                    "text": "#Pathways"
+                },
+                "                                                                ",
+                {
+                    "type": "hashtag",
+                    "text": "#Paul"
+                },
+                " Macintyre                                                                    ",
+                {
+                    "type": "hashtag",
+                    "text": "#Edition"
+                },
+                " 2                                                                 ",
+                {
+                    "type": "hashtag",
+                    "text": "#ISBN"
+                },
+                " 9781337407748                                                         ",
+                {
+                    "type": "hashtag",
+                    "text": "#Page"
+                },
+                ": 228"
+            ]
+        },
+        {
+            "id": 73,
+            "type": "message",
+            "date": "2022-07-06T13:35:38",
+            "date_unixtime": "1657096538",
+            "from": "WUTLIBUZ textbooks",
+            "from_id": "channel1548337870",
+            "file": "./files/Get started.jpg",
+            "thumbnail": "files/Get started.jpg_thumb.jpg",
+            "mime_type": "image/jpeg",
+            "width": 390,
+            "height": 499,
+            "text": [
+                {
+                    "type": "hashtag",
+                    "text": "#PE1128"
+                },
+                " .M67 2018                                                                ",
+                {
+                    "type": "hashtag",
+                    "text": "#Get"
+                },
+                " sttarted foundations in english                                                          ",
+                {
+                    "type": "hashtag",
+                    "text": "#Nancy"
+                },
+                " Douglas, James R. Morgan                                             ",
+                {
+                    "type": "hashtag",
+                    "text": "#ISBN"
+                },
+                " 9781305949294                                                                                  ",
+                {
+                    "type": "hashtag",
+                    "text": "#Page"
+                },
+                ": 108"
+            ]
+        },
+        {
+            "id": 74,
+            "type": "message",
+            "date": "2022-07-06T13:38:19",
+            "date_unixtime": "1657096699",
+            "from": "WUTLIBUZ textbooks",
+            "from_id": "channel1548337870",
+            "file": "./files/Four point.jpg",
+            "thumbnail": "files/Four point.jpg_thumb.jpg",
+            "mime_type": "image/jpeg",
+            "width": 392,
+            "height": 500,
+            "text": [
+                {
+                    "type": "hashtag",
+                    "text": "#PE1128"
+                },
+                " .Z85 2009                                                       ",
+                {
+                    "type": "hashtag",
+                    "text": "#Four"
+                },
+                " point Reading and writing advanced                                                                                 ",
+                {
+                    "type": "hashtag",
+                    "text": "#Lawrence"
+                },
+                " J. Zwier                                                                     ",
+                {
+                    "type": "hashtag",
+                    "text": "#ISBN"
+                },
+                " 9780472031801                                                    ",
+                {
+                    "type": "hashtag",
+                    "text": "#Page"
+                },
+                ": 223"
+            ]
+        },
+        {
+            "id": 75,
+            "type": "message",
+            "date": "2022-07-06T13:40:25",
+            "date_unixtime": "1657096825",
+            "from": "WUTLIBUZ textbooks",
+            "from_id": "channel1548337870",
+            "file": "./files/Great writing.jpg",
+            "thumbnail": "files/Great writing.jpg_thumb.jpg",
+            "mime_type": "image/jpeg",
+            "width": 389,
+            "height": 500,
+            "text": [
+                {
+                    "type": "hashtag",
+                    "text": "#PE1417"
+                },
+                " .D615 2019                                               ",
+                {
+                    "type": "hashtag",
+                    "text": "#Great"
+                },
+                " writing                                                                ",
+                {
+                    "type": "hashtag",
+                    "text": "#Keith"
+                },
+                " S. Folse, Tison Pugh                                                                                     ",
+                {
+                    "type": "hashtag",
+                    "text": "#Edition"
+                },
+                " 5                                                                ",
+                {
+                    "type": "hashtag",
+                    "text": "#ISBN"
+                },
+                " 9780357020869                                                ",
+                {
+                    "type": "hashtag",
+                    "text": "#Page"
+                },
+                ": 226"
+            ]
+        },
+        {
+            "id": 76,
+            "type": "message",
+            "date": "2022-07-06T13:41:52",
+            "date_unixtime": "1657096912",
+            "from": "WUTLIBUZ textbooks",
+            "from_id": "channel1548337870",
+            "file": "./files/The art of public speaking.jpg",
+            "thumbnail": "files/The art of public speaking.jpg_thumb.jpg",
+            "mime_type": "image/jpeg",
+            "width": 500,
+            "height": 375,
+            "text": [
+                {
+                    "type": "hashtag",
+                    "text": "#PN4129"
+                },
+                ".15 .L83 2020                                                          ",
+                {
+                    "type": "hashtag",
+                    "text": "#The"
+                },
+                " art of Public speaking                                              ",
+                {
+                    "type": "hashtag",
+                    "text": "#Stephen"
+                },
+                " E. Lucas                                                    ",
+                {
+                    "type": "hashtag",
+                    "text": "#Edition"
+                },
+                " 13                                                                         ",
+                {
+                    "type": "hashtag",
+                    "text": "#ISBN"
+                },
+                " 9781260548099                                              ",
+                {
+                    "type": "hashtag",
+                    "text": "#Page"
+                },
+                ": 411"
+            ]
+        },
+        {
+            "id": 77,
+            "type": "message",
+            "date": "2022-07-06T13:45:21",
+            "date_unixtime": "1657097121",
+            "edited": "2022-07-06T13:45:31",
+            "edited_unixtime": "1657097131",
+            "from": "WUTLIBUZ textbooks",
+            "from_id": "channel1548337870",
+            "file": "./files/Understanding computers.png",
+            "thumbnail": "files/Understanding computers.png_thumb.jpg",
+            "mime_type": "image/png",
+            "width": 637,
+            "height": 800,
+            "text": [
+                {
+                    "type": "hashtag",
+                    "text": "#QA76"
+                },
+                ".5 .M644 2017                                                                        ",
+                {
+                    "type": "hashtag",
+                    "text": "#Understanding"
+                },
+                " computers                                                                      ",
+                {
+                    "type": "hashtag",
+                    "text": "#Deborah"
+                },
+                " Morley, Charles S. Parker                                ",
+                {
+                    "type": "hashtag",
+                    "text": "#Edition"
+                },
+                " 16                                                                                      ",
+                {
+                    "type": "hashtag",
+                    "text": "#ISBN"
+                },
+                " 9781305656318                                                            ",
+                {
+                    "type": "hashtag",
+                    "text": "#Page"
+                },
+                ": 616"
+            ]
+        },
+        {
+            "id": 79,
+            "type": "message",
+            "date": "2022-07-06T13:46:57",
+            "date_unixtime": "1657097217",
+            "from": "WUTLIBUZ textbooks",
+            "from_id": "channel1548337870",
+            "file": "./stickers/Understanding operating systems.webp",
+            "thumbnail": "stickers/Understanding operating systems.webp_thumb.jpg",
+            "media_type": "sticker",
+            "width": 400,
+            "height": 495,
+            "text": ""
+        },
+        {
+            "id": 80,
+            "type": "message",
+            "date": "2022-07-06T13:47:28",
+            "date_unixtime": "1657097248",
+            "from": "WUTLIBUZ textbooks",
+            "from_id": "channel1548337870",
+            "text": [
+                {
+                    "type": "hashtag",
+                    "text": "#QA76"
+                },
+                ".77 .F59 2018                                                                             ",
+                {
+                    "type": "hashtag",
+                    "text": "#Understanding"
+                },
+                " operating systems                                                                          ",
+                {
+                    "type": "hashtag",
+                    "text": "#Ann"
+                },
+                " McIver McHoes, Ida M. Flynn                                                                          ",
+                {
+                    "type": "hashtag",
+                    "text": "#Edition"
+                },
+                " 8                                                                                                                        ",
+                {
+                    "type": "hashtag",
+                    "text": "#ISBN"
+                },
+                " 9781305674257                                                                                               ",
+                {
+                    "type": "hashtag",
+                    "text": "#Page"
+                },
+                ": 588"
+            ]
+        },
+        {
+            "id": 81,
+            "type": "message",
+            "date": "2022-07-06T13:48:51",
+            "date_unixtime": "1657097331",
+            "edited": "2022-07-14T17:12:08",
+            "edited_unixtime": "1657800728",
+            "from": "WUTLIBUZ textbooks",
+            "from_id": "channel1548337870",
+            "file": "./files/Mathemetics for computer technology.jfif",
+            "thumbnail": "files/Mathemetics for computer technology.jfif_thumb.jpg",
+            "mime_type": "image/jpeg",
+            "width": 500,
+            "height": 500,
+            "text": [
+                {
+                    "type": "hashtag",
+                    "text": "#QA76"
+                },
+                ".9.M35 M33 2006                                                           ",
+                {
+                    "type": "hashtag",
+                    "text": "#Mathematics"
+                },
+                " for Computer technology                                          ",
+                {
+                    "type": "hashtag",
+                    "text": "#Robert"
+                },
+                " N. McCullough                                                      ",
+                {
+                    "type": "hashtag",
+                    "text": "#Edition"
+                },
+                " 3                                                                                 ",
+                {
+                    "type": "hashtag",
+                    "text": "#ISBN"
+                },
+                " 089582700X                                                                        ",
+                {
+                    "type": "hashtag",
+                    "text": "#Page"
+                },
+                ": 468"
+            ]
+        },
+        {
+            "id": 82,
+            "type": "message",
+            "date": "2022-07-06T13:50:11",
+            "date_unixtime": "1657097411",
+            "from": "WUTLIBUZ textbooks",
+            "from_id": "channel1548337870",
+            "file": "./files/Statistical reasoning.jpg",
+            "thumbnail": "files/Statistical reasoning.jpg_thumb.jpg",
+            "mime_type": "image/jpeg",
+            "width": 391,
+            "height": 499,
+            "text": [
+                {
+                    "type": "hashtag",
+                    "text": "#QA276"
+                },
+                ".12 .B45 2018                                                                      ",
+                {
+                    "type": "hashtag",
+                    "text": "#Statistical"
+                },
+                " Reasoning for every day life                                               ",
+                {
+                    "type": "hashtag",
+                    "text": "#Jeffrey"
+                },
+                " Bennet, William L. Briggs, Mario F. Triola                                                                                  ",
+                {
+                    "type": "hashtag",
+                    "text": "#Edition"
+                },
+                " 5                                                                           ",
+                {
+                    "type": "hashtag",
+                    "text": "#ISBN"
+                },
+                " 9780134494043                                                            ",
+                {
+                    "type": "hashtag",
+                    "text": "#Page"
+                },
+                ": 415"
+            ]
+        },
+        {
+            "id": 83,
+            "type": "message",
+            "date": "2022-07-06T13:51:37",
+            "date_unixtime": "1657097497",
+            "from": "WUTLIBUZ textbooks",
+            "from_id": "channel1548337870",
+            "file": "./files/Systems Analysis and design.jpg",
+            "thumbnail": "files/Systems Analysis and design.jpg_thumb.jpg",
+            "mime_type": "image/jpeg",
+            "width": 506,
+            "height": 647,
+            "text": [
+                {
+                    "type": "hashtag",
+                    "text": "#QA402"
+                },
+                " .S3516 2016                                                                           ",
+                {
+                    "type": "hashtag",
+                    "text": "#Systems"
+                },
+                " Analysis and Design in a Changing world                                                                                   ",
+                {
+                    "type": "hashtag",
+                    "text": "#John"
+                },
+                " Satzinger, Robert Jackson, Stephen Burd                                                                               ",
+                {
+                    "type": "hashtag",
+                    "text": "#Edition"
+                },
+                " 7                                                                       ",
+                {
+                    "type": "hashtag",
+                    "text": "#ISBN"
+                },
+                " 9781305117204                                                                            ",
+                {
+                    "type": "hashtag",
+                    "text": "#Page"
+                },
+                ": 484"
+            ]
+        },
+        {
+            "id": 84,
+            "type": "message",
+            "date": "2022-07-06T13:53:22",
+            "date_unixtime": "1657097602",
+            "edited": "2022-07-06T13:53:37",
+            "edited_unixtime": "1657097617",
+            "from": "WUTLIBUZ textbooks",
+            "from_id": "channel1548337870",
+            "file": "./files/prinsiples business information systems.jpg",
+            "thumbnail": "files/prinsiples business information systems.jpg_thumb.jpg",
+            "mime_type": "image/jpeg",
+            "width": 375,
+            "height": 499,
+            "text": [
+                {
+                    "type": "hashtag",
+                    "text": "#T58"
+                },
+                ".6 .S72 2021                                                                ",
+                {
+                    "type": "hashtag",
+                    "text": "#Principles"
+                },
+                " of Business Information Systems                                                                       ",
+                {
+                    "type": "hashtag",
+                    "text": "#Ralph"
+                },
+                " Stair, George Renolds, Thomas Chesney                                                                       ",
+                {
+                    "type": "hashtag",
+                    "text": "#Edition"
+                },
+                " 4                                                                                                             ",
+                {
+                    "type": "hashtag",
+                    "text": "#ISBN"
+                },
+                " 9781473774605                                                                                    ",
+                {
+                    "type": "hashtag",
+                    "text": "#Page"
+                },
+                ": 520"
+            ]
+        },
+        {
+            "id": 85,
+            "type": "message",
+            "date": "2022-07-06T13:55:14",
+            "date_unixtime": "1657097714",
+            "edited": "2022-07-06T13:55:39",
+            "edited_unixtime": "1657097739",
+            "from": "WUTLIBUZ textbooks",
+            "from_id": "channel1548337870",
+            "file": "./files/Business data communications and networking.jpg",
+            "thumbnail": "files/Business data communications and networking.jpg_thumb.jpg",
+            "mime_type": "image/jpeg",
+            "width": 399,
+            "height": 500,
+            "text": [
+                {
+                    "type": "hashtag",
+                    "text": "#TK5105"
+                },
+                " .F577 2017                                                                                                           ",
+                {
+                    "type": "hashtag",
+                    "text": "#Business"
+                },
+                " Data Communications and Networking                                                                                                           ",
+                {
+                    "type": "hashtag",
+                    "text": "#Jerry"
+                },
+                " FitzGerald, Alan Dennis, Alexandra Durcikova                                                                                                            ",
+                {
+                    "type": "hashtag",
+                    "text": "#Edition"
+                },
+                " 13                                                                                                            ",
+                {
+                    "type": "hashtag",
+                    "text": "#ISBN"
+                },
+                " 9781119587866                                                                                                            ",
+                {
+                    "type": "hashtag",
+                    "text": "#Page"
+                },
+                ": 388"
+            ]
+        },
+        {
+            "id": 86,
+            "type": "message",
+            "date": "2022-07-06T13:57:27",
+            "date_unixtime": "1657097847",
+            "from": "WUTLIBUZ textbooks",
+            "from_id": "channel1548337870",
+            "file": "./files/Sight sound motion.jpg",
+            "thumbnail": "files/Sight sound motion.jpg_thumb.jpg",
+            "mime_type": "image/jpeg",
+            "width": 390,
+            "height": 500,
+            "text": [
+                {
+                    "type": "hashtag",
+                    "text": "#TR850"
+                },
+                " .Z47 2017                                                               ",
+                {
+                    "type": "hashtag",
+                    "text": "#Sight"
+                },
+                " Sound Motion                                                                ",
+                {
+                    "type": "hashtag",
+                    "text": "#Herbert"
+                },
+                " Zettl                                                                ",
+                {
+                    "type": "hashtag",
+                    "text": "#Edition"
+                },
+                " 8                                                                                      ",
+                {
+                    "type": "hashtag",
+                    "text": "#ISBN"
+                },
+                " 9781305578906                                                          ",
+                {
+                    "type": "hashtag",
+                    "text": "#Page"
+                },
+                ": 436"
+            ]
+        },
+        {
+            "id": 87,
+            "type": "message",
+            "date": "2022-07-06T13:59:18",
+            "date_unixtime": "1657097958",
+            "edited": "2022-07-06T13:59:34",
+            "edited_unixtime": "1657097974",
+            "from": "WUTLIBUZ textbooks",
+            "from_id": "channel1548337870",
+            "file": "./files/Operations and supply chain management David A..jpg",
+            "thumbnail": "files/Operations and supply chain management David A..jpg_thumb.jpg",
+            "mime_type": "image/jpeg",
+            "width": 391,
+            "height": 500,
+            "text": [
+                {
+                    "type": "hashtag",
+                    "text": "#TS155"
+                },
+                " .C56 2021                                                                                                               ",
+                {
+                    "type": "hashtag",
+                    "text": "#Operations"
+                },
+                " and supply chain management                                                                                                                                       ",
+                {
+                    "type": "hashtag",
+                    "text": "#David"
+                },
+                " A. Collier, James R. Revans                                                                  ",
+                {
+                    "type": "hashtag",
+                    "text": "#Edition"
+                },
+                " 2                                                                                                                                       ",
+                {
+                    "type": "hashtag",
+                    "text": "#ISBN"
+                },
+                " 9780357131695                                                                                                     ",
+                {
+                    "type": "hashtag",
+                    "text": "#Page"
+                },
+                ": 686"
+            ]
+        },
+        {
+            "id": 88,
+            "type": "message",
+            "date": "2022-07-06T14:01:08",
+            "date_unixtime": "1657098068",
+            "from": "WUTLIBUZ textbooks",
+            "from_id": "channel1548337870",
+            "file": "./files/Applying innovation.jpg",
+            "thumbnail": "files/Applying innovation.jpg_thumb.jpg",
+            "mime_type": "image/jpeg",
+            "width": 350,
+            "height": 499,
+            "text": [
+                {
+                    "type": "hashtag",
+                    "text": "#HD45"
+                },
+                " .O88 2013                                                               ",
+                {
+                    "type": "hashtag",
+                    "text": "#Applying"
+                },
+                " Innovation                                                                    ",
+                {
+                    "type": "hashtag",
+                    "text": "#David"
+                },
+                " O'Sullivan, Lawrence Dooley                                                                         ",
+                {
+                    "type": "hashtag",
+                    "text": "#ISBN"
+                },
+                " 9781412954556                                        ",
+                {
+                    "type": "hashtag",
+                    "text": "#Page"
+                },
+                ": 391"
+            ]
+        },
+        {
+            "id": 90,
+            "type": "message",
+            "date": "2022-07-06T14:03:09",
+            "date_unixtime": "1657098189",
+            "from": "WUTLIBUZ textbooks",
+            "from_id": "channel1548337870",
+            "photo": "photos/photo_2@06-07-2022_14-03-09.jpg",
+            "width": 981,
+            "height": 1280,
+            "text": [
+                {
+                    "type": "hashtag",
+                    "text": "#TS155"
+                },
+                " .C56 2021                                                                               ",
+                {
+                    "type": "hashtag",
+                    "text": "#Operations"
+                },
+                " and supply chain management                                                                            ",
+                {
+                    "type": "hashtag",
+                    "text": "#F"
+                },
+                ". Robert Jacobs, Richard B. Chase                                                  ",
+                {
+                    "type": "hashtag",
+                    "text": "#Edition"
+                },
+                " 15                                                                                                ",
+                {
+                    "type": "hashtag",
+                    "text": "#ISBN"
+                },
+                " 9781259921797                                                                                             ",
+                {
+                    "type": "hashtag",
+                    "text": "#Page"
+                },
+                ": 754"
+            ]
+        },
+        {
+            "id": 91,
+            "type": "message",
+            "date": "2022-07-06T14:06:38",
+            "date_unixtime": "1657098398",
+            "from": "WUTLIBUZ textbooks",
+            "from_id": "channel1548337870",
+            "file": "./files/Traditions and encounters.jpg",
+            "thumbnail": "files/Traditions and encounters.jpg_thumb.jpg",
+            "mime_type": "image/jpeg",
+            "width": 391,
+            "height": 500,
+            "text": [
+                {
+                    "type": "hashtag",
+                    "text": "#D20"
+                },
+                " .B42 2016                                                                   ",
+                {
+                    "type": "hashtag",
+                    "text": "#Traditions"
+                },
+                " and Encounters                                                ",
+                {
+                    "type": "hashtag",
+                    "text": "#Jerry"
+                },
+                " H. Bentley, Herbert F. Ziegler, Heather E. Streets-Salter                                            ",
+                {
+                    "type": "hashtag",
+                    "text": "#Editon"
+                },
+                " 4                                                                        ",
+                {
+                    "type": "hashtag",
+                    "text": "#ISBN"
+                },
+                " 9781259277283                                                         ",
+                {
+                    "type": "hashtag",
+                    "text": "#Page"
+                },
+                ": 710"
+            ]
+        },
+        {
+            "id": 92,
+            "type": "message",
+            "date": "2022-07-06T14:08:28",
+            "date_unixtime": "1657098508",
+            "edited": "2022-07-06T14:56:51",
+            "edited_unixtime": "1657101411",
+            "from": "WUTLIBUZ textbooks",
+            "from_id": "channel1548337870",
+            "file": "./files/Sourcework.jpg",
+            "thumbnail": "files/Sourcework.jpg_thumb.jpg",
+            "mime_type": "image/jpeg",
+            "width": 383,
+            "height": 499,
+            "text": [
+                {
+                    "type": "hashtag",
+                    "text": "#PE1417"
+                },
+                " .D615 2019                                             ",
+                {
+                    "type": "hashtag",
+                    "text": "#Sourcework"
+                },
+                "                                                            ",
+                {
+                    "type": "hashtag",
+                    "text": "#Nancy"
+                },
+                " E. Dollahite                                                             ",
+                {
+                    "type": "hashtag",
+                    "text": "#Edition"
+                },
+                " 2                                                            ",
+                {
+                    "type": "hashtag",
+                    "text": "#ISBN"
+                },
+                " 9781111352097                                                          ",
+                {
+                    "type": "hashtag",
+                    "text": "#Page"
+                },
+                ": 222"
+            ]
+        }
+    ]
+}
