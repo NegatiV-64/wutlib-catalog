@@ -5,6 +5,7 @@
 html,
 body {
     height: 100%;
+    font-family: 'Inter', system-ui, sans-serif;
 }
 
 #__next {

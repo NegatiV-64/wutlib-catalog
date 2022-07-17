@@ -1,10 +1,11 @@
 // Tailwind & global styles
 import '../styles/globals.css';
 // React.js
-import { useEffect } from 'react';
+import { Fragment, useEffect } from 'react';
 // Next.js
 import type { AppProps } from 'next/app';
 import { Router } from 'next/router';
+import Head from 'next/head';
 // Components
 import NProgress from 'nprogress';
 import { Layout } from '../layout';
@@ -27,9 +28,15 @@ function MyApp({ Component, pageProps }: AppProps) {
 
 
   return (
-    <Layout>
-      <Component {...pageProps} />
-    </Layout>
+    <Fragment>
+      <Head>
+        <meta httpEquiv="X-UA-Compatible" content="IE=edge" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+      </Head>
+      <Layout>
+        <Component {...pageProps} />
+      </Layout>
+    </Fragment>
   );
 }
 

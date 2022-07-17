@@ -12,7 +12,7 @@ export const BookCard: FC<BookCardProps> = ({ className, authors, year, bookId, 
       <picture className='flex justify-center items-center'>
         <Image height={220} width={150} objectFit="contain" src={cover.replace('./', '/')} alt={title} />
       </picture>
-      <h3 className='font-medium text-xl mb-2 text-slate-900'>{title}</h3>
+      <h3 className='font-medium text-xl mb-2 mt-2 text-slate-900'>{title}</h3>
       <p className='text-base text-slate-900'><span className='font-medium'>Authors:</span> {bookAuthors}</p>
       <p className='text-base text-slate-900'><span className='font-medium'>Edition</span>: {edition}</p>
       <p className='text-base text-slate-900 mb-2'><span className='font-medium'>Year:</span> {year}</p>

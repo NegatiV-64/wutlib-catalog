@@ -32,24 +32,31 @@ export const getStaticPaths: GetStaticPaths = async () => {
 
     return {
         paths: booksPaths,
-        fallback: true
+        fallback: 'blocking'
     };
 };
 
 export const getStaticProps: GetStaticProps<BookPageStaticProps> = async (context) => {
     const params = context.params;
-    if (!params) return { notFound: true };
+    if (!params) {
+        return { notFound: true };
+    }
     const bookId = params.bookId as string;
-    if (bookId === undefined && isNaN(+bookId)) return { notFound: true };
+    if (bookId === undefined && isNaN(+bookId)) {
+        return { notFound: true };
+    }
 
     const booksData = await getJSONDataHandler<IBook[]>('test.json');
     const book = booksData.find((item) => item.book_id === +bookId);
 
-    if (book === undefined) return { notFound: true };
+    if (book === undefined) {
+        return { notFound: true };
+    }
 
     return {
         props: {
             book_data: book,
+            params: context.params
         }
     };
 };
